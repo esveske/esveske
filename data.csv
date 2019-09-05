@@ -3,7 +3,7 @@ autor,g.r.,mesto,razred,škola,mesto š.,prog,A5,god,naslov,link
 Petković Marko,1984,Niš,drugi,"Gimnazija ""Svetozar Marković""",Niš,FIZ,12,2000,Odredjivanje profila kapljice na ravnoj podlozi,pdf/2000/z00-1201marko.pdf
 Petrović Katarina,1984,Beograd,drugi,Matematička gimnazija,Beograd,FIZ,13,2000,Standardni i višedimenzioni Bak Sneppenow model evolucije,pdf/2000/z00-1202katarina.pdf
 Bihelović Filip,1981,Beograd,četvrti,Hemijsko-prehrambrena tehnološka škola,Beograd,HEM,7,2000,"Primena reakcije katalitičke oksidacije mono-, di- i tri hidroksi arena vodonik peroksidom za odredjivanje mikrokoličina bakra",pdf/2000/z00-1301filip_b.pdf
-Puzović Miloš,1983,Čačak,drugi,Gimnazija,Čačak,RAČ,10,2000,MC - modifikacija C okruženja prilagodjena modularnom programiranju,pdf/2000/z00-1301puzovic.pdf
+Puzović Miloš,1983,Čačak,drugi,Gimnazija,Čačak,RAC,10,2000,MC - modifikacija C okruženja prilagodjena modularnom programiranju,pdf/2000/z00-1301puzovic.pdf
 Momić Snežana,1983,Banja Luka,treći,"Elektrotehnička škola ""Nikola Tesla""",Banja Luka,ELE,11,2000,Laserski modem sa paralelnim prenosom podataka,pdf/2000/z00-1302lmodem1.pdf
 Gavrilović Milan,1981,Kragujevac,četvrti,Prva kragujevačka gimnazija,Kragujevac,ELE,11,2000,Laserski modem sa paralelnim prenosom podataka,pdf/2000/z00-1302lmodem1.pdf
 Djokić Vladimir,1984,Bor,prvi,"Gimnazija ""Bora Stanković""",Bor,BIO,11,2000,"Uticaj nekih mikroklimatskih faktora na diferencijaciju zajednice tipa Querco-Carpinetum moesiacum (serbicum) Rudski 1949, u okolini Petnice",pdf/2000/z00-2101vlada.pdf
@@ -45,7 +45,7 @@ Gajić Biljana,1982,Beograd,četvrti,Matematička gimnazija,Beograd,FIZ,7,2001,O
 Miletić Marija,1983,Boljevac,treći,Matematička gimnazija,Beograd,ELE,4,2001,Kontrola motora jednosmerne struje povratnom spregom,pdf/2001/z01-1301motor.pdf
 Pantić Zdravko,1983,Loznica,treći,"Gimnazija ""Vuk Karadžić""",Loznica,ELE,4,2001,Kontrola motora jednosmerne struje povratnom spregom,pdf/2001/z01-1301motor.pdf
 Knežević Jana,1984,Novi Beograd,drugi,Matematička gimnazija,Beograd,ELE,7,2001,Digitalni naponski regulator kontrolisan računarom,pdf/2001/z01-1302jana_kl.pdf
-Savić Miloš,1984,Valjevo,drugi,Valjevska gimnazija,Valjevo,RAČ,16,2001,YAPCC: prenosivi C cross kompajler,pdf/2001/z01-1401yapcc.pdf
+Savić Miloš,1984,Valjevo,drugi,Valjevska gimnazija,Valjevo,RAC,16,2001,YAPCC: prenosivi C cross kompajler,pdf/2001/z01-1401yapcc.pdf
 Vukojević Vanja,1982,Obrenovac,četvrti,Gimnazija,Obrenovac,BIO,10,2001,Ispitivanje potencijalnih hiperakumulatorskih vrsta deponije pepela,pdf/2001/z01-2101vanja.pdf
 Dinjaški Nina,1985,Kikinda,treći,"Gimnazija ""Dušan Vasiljev""",Kikinda,BIO,6,2001,Ispitivanje selektivnosti i fitotoksičnosti pesticida na biljke kukuruza (Zea mays),pdf/2001/z01-2102nina.pdf
 Tomašev Nenad,1985,Novi Sad,drugi,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,BIO,4,2001,Uticaj različitih talasnih dužina svetlosti na privlačenje noćnih leptira,pdf/2001/z01-2103tomashev.pdf
@@ -118,8 +118,8 @@ Cvetković Jovana,1984,Kragujevac,treći,Prva kragujevačka gimnazija,Kragujevac
 Adamović Bojan,1985,Prijedor,drugi,Elektrotehnička škola,Prijedor,ELE,4,2002,Senzori vlažnosti vazduha,pdf/2002/z02-1302bojan(a).pdf
 Đervida Dražen,1985,Omarska,četvrti,Gimnazija u Prijedoru,Prijedor,ELE,2,2002,Elektronsko merenje nivoa neprovodne tečnosti kapacitivnom metodom,pdf/2002/z02-1303nivo.pdf
 Ćosić Ivan,1986,Čačak,treći,Gimnazija u Čačku,Čačak,ELE,2,2002,Elektronsko merenje nivoa neprovodne tečnosti kapacitivnom metodom,pdf/2002/z02-1303nivo.pdf
-Savić Miloš,1984,Valjevo,treći,Valjevska gimnazija,Valjevo,RAČ,3,2002,YAMOS: multi-computer operativni sistem,pdf/2002/z02-1401msavic.pdf
-Raca Mirko,1984,Novi Sad,četvrti,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAČ,3,2002,Simulacija osvetljenja građevinskih objekata,pdf/2002/z02-1402raca.pdf
+Savić Miloš,1984,Valjevo,treći,Valjevska gimnazija,Valjevo,RAC,3,2002,YAMOS: multi-computer operativni sistem,pdf/2002/z02-1401msavic.pdf
+Raca Mirko,1984,Novi Sad,četvrti,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAC,3,2002,Simulacija osvetljenja građevinskih objekata,pdf/2002/z02-1402raca.pdf
 Zeljić Katarina,1984,Loznica,treći,"Gimnazija ""Vuk Karadžić""",Loznica,BIO,9,2002,"Efekat NaCl ma klijanje semena tri vrste roda Centaurium (C. spicatum, C. tenuiflorum, C. erythraea)",pdf/2002/z02-2101kacca.pdf
 Jevtić Dragan,1984,Novi Sad,treći,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,BIO,6,2002,Ispitivanje antifugalne aktivnosti petroletarskih i metanolnih ekstrakata mahovina Hypnum cupressiforme Hedw. i Pelliaendiviifolia (Dicks.) Dumort.,pdf/2002/z02-2102drajev.pdf
 Marković Vladimir,1985,Pančevo,treći,"Gimnazija ""Uroš Predić""",Pančevo,BIO,11,2002,Gljive prouzrokovači truleži drveta topola (Populus spp.),pdf/2002/z02-2103topole.pdf
@@ -241,9 +241,9 @@ Stojsavljević Petra,1986,Sombor,treći,Matematička gimnazija,Beograd,FIZ,7,200
 Radičević Đorđe,1988,Niš,prvi,"Gimnazija ""Svetozar Marković""",Niš,FIZ,4,2004,Simulacija distribucije naelektrisanja na 2D i 3D modelima metodom simuliranog kaljenja,pdf/2004/z04-12f07dj.pdf
 Todorović Darko,1985,Vlasotince,četvrti,"Gimnazija ""Stevan Jakovljević""",Vlasotince,ELE,5,2004,Ultrazvučni sonar,pdf/2004/z04-14e01d.pdf
 Simović Velibor,1987,Herceg Novi (CG),drugi,"Srednja škola ""Ivan Goran Kovačević""",Herceg Novi (CG),ELE,5,2004,Laserski 3D skener,pdf/2004/z04-14e02v.pdf
-Janjić Vuk,1986,Beograd,treći,XIII beogradska gimnazija,Beograd,RAČ,3,2004,TERRAGEN – 3D vizuelizacija terena,pdf/2004/z04-15r01v.pdf
-Panić Dušan,1987,Loznica,drugi,"Gimnazija ""Vuk Karadžić""",Loznica,RAČ,6,2004,DFTPD Distribuirani FTP Daemon,pdf/2004/z04-15r02d.pdf
-Radovanović Una,1986,Jakovo,treći,IX beogradska gimnazija,,RAČ,4,2004,Program Grafikoni,pdf/2004/z04-15r03u.pdf
+Janjić Vuk,1986,Beograd,treći,XIII beogradska gimnazija,Beograd,RAC,3,2004,TERRAGEN – 3D vizuelizacija terena,pdf/2004/z04-15r01v.pdf
+Panić Dušan,1987,Loznica,drugi,"Gimnazija ""Vuk Karadžić""",Loznica,RAC,6,2004,DFTPD Distribuirani FTP Daemon,pdf/2004/z04-15r02d.pdf
+Radovanović Una,1986,Jakovo,treći,IX beogradska gimnazija,,RAC,4,2004,Program Grafikoni,pdf/2004/z04-15r03u.pdf
 Marjanović Nemanja,1987,Inđija,drugi,Gimnazija,Inđija,BIO,6,2004,Fauna Oligoheta kao indikator kvaliteta vode Inđijskog potoka,pdf/2004/z04-21b01n.pdf
 Popović Miloš,1987,Zaječar,drugi,Gimnazija,Zaječar,BIO,4,2004,Kvalitativni i kvantitativni sastav faune dnevnih leptira okoline Petnice,pdf/2004/z04-21b02m.pdf
 Ledina Tijana,1987,Sokobanja,treći,Gimnazija,Knjaževac,BIO,7,2004,"Populaciona, kvalitativna i kvantitativna analiza ihtiofaune rece Pocibrave u letnjem aspektu 2004. godine",pdf/2004/z04-21b03tss.pdf
@@ -319,9 +319,9 @@ Delić Uroš,1987,Beograd,treći,Matematička gimnazija,Beograd,FIZ,12,2005,2D-s
 Milić Uglješa,1988,Smederevo,drugi,Gimnazija,Smederevo,FIZ,9,2005,Ispitivanje zavisnosti difrakcione efikasnosti od načina dobijanja holografske difrakcione rešetke,pdf/2005/z05-z051204.pdf
 Đorđević Stojan,1988,Kragujevac,drugi,I kragujevačka gimnazija,Kragujevac,FIZ,9,2005,Ispitivanje zavisnosti difrakcione efikasnosti od načina dobijanja holografske difrakcione rešetke,pdf/2005/z05-z051204.pdf
 Srećković Miloš,1987,Šabac,treći,Matematička gimnazija,Beograd,FIZ,6,2005,Ispitivanje osobina scale-free mreža generisanih po Barabaši-Albert modelu,pdf/2005/z05-z051206.pdf
-Nenadov Rajko,1987,Novi Sad,četvrti,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAČ,5,2005,Heuristike za rešavanje NP-kompletnih problema na scale-free mrežama,pdf/2005/z05-z051401.pdf
-Čordaš Robert,1989,Mužlja,prvi,Gimnazija,Zrenjanin,RAČ,4,2005,PrologAPI,pdf/2005/z05-z051402.pdf
-Panić Dušan,1987,Loznica,četvrti,"Gimnazija ""Vuk Karadžić""",Loznica,RAČ,8,2005,BIM – Bluetooth Instant Messanger,pdf/2005/z05-z051403.pdf
+Nenadov Rajko,1987,Novi Sad,četvrti,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAC,5,2005,Heuristike za rešavanje NP-kompletnih problema na scale-free mrežama,pdf/2005/z05-z051401.pdf
+Čordaš Robert,1989,Mužlja,prvi,Gimnazija,Zrenjanin,RAC,4,2005,PrologAPI,pdf/2005/z05-z051402.pdf
+Panić Dušan,1987,Loznica,četvrti,"Gimnazija ""Vuk Karadžić""",Loznica,RAC,8,2005,BIM – Bluetooth Instant Messanger,pdf/2005/z05-z051403.pdf
 Petrović Jovana,1987,Odžaci,treći,"Gimnazija ""Jovan Jovanović Zmaj""",Odžaci,BIO,6,2005,Uticaj pH vrednosti vode na razvoj larvi komaraca (familija Culicidae),pdf/2005/z05-z052101.pdf
 Jovanović Bogdan,1988,Novi Beograd,drugi,X beogradska gimnazija,Novi Beograd,BIO,6,2005,Uticaj pH vrednosti vode na razvoj larvi komaraca (familija Culicidae),pdf/2005/z05-z052101.pdf
 Grujić Draško,1987,Beočin,treći,Poljoprivredna škola sa domom učenika,Futog,BIO,5,2005,Komparativna analiza ishrane male ušare (Asio otus) na lokalitetima u Beočinu i Futogu,pdf/2005/z05-z052102.pdf
@@ -411,8 +411,8 @@ Danilović Dajana,1987,Valjevo,četvrti,Valjevska gimnazija,Valjevo,ELE,9,2006,H
 Simonović Mirela,1987,Herceg Novi (CG),četvrti,"Srednja škola ""Ivan Goran Kovačević""",Herceg Novi (CG),ELE,5,2006,Radio poslatranje meteora,pdf/2006/z06-z0613e04mt.pdf
 Bečejac Tamara,1988,Rumenka,treći,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,ELE,5,2006,Radio poslatranje meteora,pdf/2006/z06-z0613e04mt.pdf
 Bežulj Marko,1988,Pančevo,treći,"Elektrotehnička škola ""Nikola Tesla""",Pančevo,ELE,8,2006,Prepoznavanje slika korišćenjem neuronskih mreža i backpropagation algoritma,pdf/2006/z06-z0613e05m.pdf
-Janković Stefan,1987,Beograd,četvrti,Matematička gimnazija,Beograd,RAČ,13,2006,Boosted SMRNN: on-line prepoznavanje govora,pdf/2006/z06-z0614r01s.pdf
-Čordaš Robert,1989,Mužlja,drugi,Gimnazija,Zrenjanin,RAČ,6,2006,RealVM,pdf/2006/z06-z0614r02r.pdf
+Janković Stefan,1987,Beograd,četvrti,Matematička gimnazija,Beograd,RAC,13,2006,Boosted SMRNN: on-line prepoznavanje govora,pdf/2006/z06-z0614r01s.pdf
+Čordaš Robert,1989,Mužlja,drugi,Gimnazija,Zrenjanin,RAC,6,2006,RealVM,pdf/2006/z06-z0614r02r.pdf
 Jovanović Bogdan,1988,Novi Beograd,treći,X beogradska gimnazija,Beograd,BIO,7,2006,Poređenje merističkih i morfometrijskih karaktera dve podvrste klena – Leucisus cephalus cephalus i Leuciscus cephalus albus – iz Jadranskog i Crnomorskog sliva,pdf/2006/z06-z0621b01bj.pdf
 Petrović Jovana,1987,Odžaci,četvrti,"Gimnazija ""Jovan Jovanović Zmaj""",Odžaci,BIO,7,2006,Poređenje merističkih i morfometrijskih karaktera dve podvrste klena – Leucisus cephalus cephalus i Leuciscus cephalus albus – iz Jadranskog i Crnomorskog sliva,pdf/2006/z06-z0621b01bj.pdf
 Milovanović Dragomir,1988,Zemun,treći,V beogradska gimnazija,Beograd,BIO,5,2006,Ispitivanje efekata dijatomejske zemlje na adulte žitnog žiška Sitophilus granarius L. (Coleoptera Curculionidae),pdf/2006/z06-z0621b02d.pdf
@@ -506,8 +506,8 @@ Otašević Nikola,1989,Beograd,treći,Matematička gimnazija,Beograd,ELE,6,2007,
 Bogdanović Miroslav,1990,Beograd,treći,Matematička gimnazija,Beograd,ELE,6,2007,Konstrukcija ultrazvučnog sonara i testiranje negovog rada u različitim uslovima,pdf/2007/z07-104_ele2.pdf
 Basić Miodrag,1990,Beograd,drugi,X beogradska gimnazija,Beograd,ELE,4,2007,Merenje temperature vazduha pomoću ultrazvuka,pdf/2007/z07-104_ele3.pdf
 Anastasijević Ana,1989,Beograd,treći,Matematička gimnazija,Beograd,ELE,5,2007,Merenje horizontalnog profila snage zvučnika u nelaboratorijskim uslovima,pdf/2007/z07-104_ele4.pdf
-Nikolić Aleksandar,1988,Aleksinac,četvrti,Gimnazija,Aleksinac,RAČ,5,2007,Eksploatacija buffer overflowa na x86_64 Linux platformi,pdf/2007/z07-105_rac1.pdf
-Čordaš Robert,1989,Mužlja,treći,Gimnazija,Zrenjanin,RAČ,6,2007,CallTheTux,pdf/2007/z07-105_rac2.pdf
+Nikolić Aleksandar,1988,Aleksinac,četvrti,Gimnazija,Aleksinac,RAC,5,2007,Eksploatacija buffer overflowa na x86_64 Linux platformi,pdf/2007/z07-105_rac1.pdf
+Čordaš Robert,1989,Mužlja,treći,Gimnazija,Zrenjanin,RAC,6,2007,CallTheTux,pdf/2007/z07-105_rac2.pdf
 Milovanović Dragomir,1988,Zemun,četvrti,V beogradska gimnazija,Beograd,BIO,8,2007,"Ispitivanje antimutagenog dejstva infuza od nevena, bokvice i koprive testom somatskih mutacija i rekombinacija",pdf/2007/z07-201_b1.pdf
 Kiralj Arpad,1989,Sombor,treći,Medicinska škola,Sombor,BIO,8,2007,"Ispitivanje antimutagenog dejstva infuza od nevena, bokvice i koprive testom somatskih mutacija i rekombinacija",pdf/2007/z07-201_b1.pdf
 Arnaut Marina,1988,Rumenka,četvrti,Medicinska škola,Novi Sad,BIO,8,2007,"Ispitivanje antimutagenog dejstva infuza od nevena, bokvice i koprive testom somatskih mutacija i rekombinacija",pdf/2007/z07-201_b1.pdf
@@ -624,8 +624,8 @@ Filipović Ivan,1992,Valjevo,drugi,Valjevska gimnazija,Valjevo,ELE,3,2008,Simula
 Đelekar Srđan,1992,Bresno Polje (Kruševac),drugi,Gimnazija,Kruševac,ELE,3,2008,Simulacija automatskog pozicioniranja bristlebota u pokretu,pdf/2008/z08-020_141ele08_23.pdf
 Todorović Danka,1990,Istočno Sarajevo (BIH),treći,Gimnazija i SSŠ,Istočna Ilidža (BIH),ELE,1,2008,Ispitivanje preciznosti praćenja objekta pomoću IC kamere,pdf/2008/z08-020_141ele08_24.pdf
 Ignjatović Milica,1990,Smederevska Palanka,treći,Gimnazija,Smederevska Palanka,ELE,1,2008,Ispitivanje preciznosti praćenja objekta pomoću IC kamere,pdf/2008/z08-020_141ele08_24.pdf
-Marić Nikola,1990,Valjevo,treći,Valjevska gimnazija,Valjevo,RAČ,5,2008,Simulacija igre tablić,pdf/2008/z08-022_rac08_21.pdf
-Živković Filip,1991,Beograd,treći,Računarska gimnazija,Beograd,RAČ,4,2008,Implementacija alata za rad sa bazama podataka u Matlabu,pdf/2008/z08-022_rac08_22.pdf
+Marić Nikola,1990,Valjevo,treći,Valjevska gimnazija,Valjevo,RAC,5,2008,Simulacija igre tablić,pdf/2008/z08-022_rac08_21.pdf
+Živković Filip,1991,Beograd,treći,Računarska gimnazija,Beograd,RAC,4,2008,Implementacija alata za rad sa bazama podataka u Matlabu,pdf/2008/z08-022_rac08_22.pdf
 Šviković Saša,1990,Kostolac,treći,Gimnazija,Požarevac,BIO,20,2008,Fauna i ekologija ptica okoline Petnice,pdf/2008/z08-026_211bio_11.pdf
 Nikolić Stefan,1991,Novi Sad,drugi,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,BIO,20,2008,Fauna i ekologija ptica okoline Petnice,pdf/2008/z08-026_211bio_11.pdf
 Papić Ana,1992,Mačvanska Mitrovica,prvi,Gimnazija,Sremska Mitrovica,BIO,20,2008,Fauna i ekologija ptica okoline Petnice,pdf/2008/z08-026_211bio_11.pdf
@@ -723,8 +723,8 @@ Nobilo Petar,1991,Beograd,treći,Matematička gimnazija,Beograd,ELE,5,2009,Stabi
 Danilović Aleksandar,1993,Valjevo,prvi,Valjevska gimnazija,Valjevo,ELE,5,2009,Stabilizacija fizičkog klatna,pdf/2009/z09-020_ele09_2k4.pdf
 Blanuša Joban,1993,Inđija,prvi,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,ELE,6,2009,Beskontaktni tahometar,pdf/2009/z09-020_ele09_2k5.pdf
 Vukanić Stefan,1990,Obrenovac,četvrti,Tehnička škola,Obrenovac,ELE,6,2009,Beskontaktni tahometar,pdf/2009/z09-020_ele09_2k5.pdf
-Beserminji Aleksandar,1991,Kucura,treći,"STŠ ""Mihajlo Pupin""",Kula,RAČ,5,2009,Lociranje mesta snimanja fotografije,pdf/2009/z09-023_RAC09_2K1.pdf
-Tomić Dejan,1992,Pančevo,drugi,Matematička gimnazija,Beograd,RAČ,5,2009,"Igra ""Moj broj"" sa automatskim traženjem tačnog ili najbližeg rešenja",pdf/2009/z09-023_RAC09_2K2.pdf
+Beserminji Aleksandar,1991,Kucura,treći,"STŠ ""Mihajlo Pupin""",Kula,RAC,5,2009,Lociranje mesta snimanja fotografije,pdf/2009/z09-023_RAC09_2K1.pdf
+Tomić Dejan,1992,Pančevo,drugi,Matematička gimnazija,Beograd,RAC,5,2009,"Igra ""Moj broj"" sa automatskim traženjem tačnog ili najbližeg rešenja",pdf/2009/z09-023_RAC09_2K2.pdf
 Atanacković Iva,1993,Beograd,prvi,"Gimnazija ""Sveti Sava""",Beograd,BIO,6,2009,Ispitivanje uticaja bakterije Escherichia coli na proces biosinteze hlorofila a i b kod klica pšenice (Triticum vulgare L.),pdf/2009/z09-029_BIO09_2K1.pdf
 Biočanin Marjan,1991,Beograd,četvrti,XIII beogradska gimnazija,Beograd,BIO,5,2009,"Uticaj UV-C zraka na preživljavanje, rast i produkciju melanina kod soja Bacillus thuringiensis",pdf/2009/z09-029_BIO09_2K2.pdf
 Jevtić Živojin,1991,Lazarevac,treći,Gimnazija,Lazarevac,BIO,4,2009,Uticaj lasera (λ = 632.8 nm) na inicijalne ćelije bakterijskih sojeva Escherichia coli SY252 i Bacillus thuringiensis,pdf/2009/z09-029_BIO09_2K3.pdf
@@ -822,10 +822,10 @@ Janković Nemanja,1992,Loznica,četvrti,Tehnička škola,Loznica,PFE,8,2010,Opti
 Ranković Vladimir,1992,Beograd,treći,Matematička gimnazija,Beograd,PFE,4,2010,Laserski daljinomer,pdf/2010/68-20.pdf
 Polovina Vladimir,1994,Kikinda,drugi,Tehnička škola,Kikinda,PFE,8,2010,Model broda na magnetnohidrodinamički pogon,pdf/2010/68-21.pdf
 Timotić Lazar,1992,Badovinci,četvrti,Tehnička škola,Šabac,PFE,7,2010,Magnetna levitacija,pdf/2010/68-22.pdf
-Makarić Vladimir,1993,Novi Sad,drugi,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAČ,16,2010,Poređenje efikasnosti simulacija grupnog kretanja,pdf/2010/68-23.pdf
-Miličić Stevan,1993,Jagodina,drugi,Računarska gimnazija,Banja Luka,RAČ,3,2010,Kontrola kursora računara praćenjem kretanja očiju korisnika,pdf/2010/68-24.pdf
-Stojanović Miloš,1993,Beograd,treći,IX beogradska gimnazija,Beograd,RAČ,5,2010,Softverska segmentacija I klasifikacija saobraćajnih znakova,pdf/2010/68-25.pdf
-Beserminji Aleksandar,1991,Kucura,četvrti,"STŠ ""Mihajlo Pupin""",Kula,RAČ,5,2010,Trodimenzionalno modeliranje prostora na osnovu stereo fotografije,pdf/2010/68-26.pdf
+Makarić Vladimir,1993,Novi Sad,drugi,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAC,16,2010,Poređenje efikasnosti simulacija grupnog kretanja,pdf/2010/68-23.pdf
+Miličić Stevan,1993,Jagodina,drugi,Računarska gimnazija,Banja Luka,RAC,3,2010,Kontrola kursora računara praćenjem kretanja očiju korisnika,pdf/2010/68-24.pdf
+Stojanović Miloš,1993,Beograd,treći,IX beogradska gimnazija,Beograd,RAC,5,2010,Softverska segmentacija I klasifikacija saobraćajnih znakova,pdf/2010/68-25.pdf
+Beserminji Aleksandar,1991,Kucura,četvrti,"STŠ ""Mihajlo Pupin""",Kula,RAC,5,2010,Trodimenzionalno modeliranje prostora na osnovu stereo fotografije,pdf/2010/68-26.pdf
 Drljević Vanja,1993,Mali Zvornik,treći,Gimnazija,Mali Zvornik,BIO,14,2010,Uticaj kofeina na komponente adaptivne vrednosti vrste Drosophila melanogaster,pdf/2010/68-27.pdf
 Biočanin Marjan,1991,Beograd,četvrti,XIII beogradska gimnazija,Beograd,BIO,10,2010,Ispitivanje uticaja CH3COONa na produkciju struje bakterijskih zajednica mulja slatkovodnih ekosistema u Petnici I njihova karakterizacija,pdf/2010/68-28.pdf
 Atanasković Iva,1993,Beograd,drugi,"Gimnazija ""Sveti Sava""",Beograd,BIO,8,2010,"Ispitivanje uticaja triklosana, hlorheksidin glukonata i benzalkonijum hlorida na formiranje antibiotske rezistentnosti kod bakterija Pseudomonas aeruginosa i Staphylococcus epidermidis",pdf/2010/68-29.pdf
@@ -868,12 +868,12 @@ Stević Jovana,1991,Kostolac,četvrti,Srednja medicinska škola,Požarevac,ANT,8
 Jakovljević Isidora,1993,Beograd,drugi,IX beogradska gimnazija,Beograd,ANT,8,2010,"Analiza balkanizujućih diskursa u romanu ""U balkanskim gudurama"" Karla Maja",pdf/2010/68-61.pdf
 Bačić Iva,1992,Subotica,četvrti,"Gimnazija ""Svetozar Marković""",Subotica,ANT,7,2010,Koncept etna na Etnofestu: analiza značenja etno muzike na subotičkom festivalu Etnofest,pdf/2010/68-62.pdf
 Jakšić Tijana,1992,Bačka Topola,treći,Gimnazija,Bačka Topola,ANT,7,2010,Koncept etna na Etnofestu: analiza značenja etno muzike na subotičkom festivalu Etnofest,pdf/2010/68-62.pdf
-Kostić Milana,1992,Zrenjanin,treći,Gimnazija,Zrenjanin,ARH,17,2010,Skordističke ratničke sahrane sa kremacijom,pdf/2010/68-63.pdf
-Ivanović Ilija,1991,Golubac,četvrti,Srednja škola,Veliko Gradište,ARH,10,2010,Novac provincije Bitinije na teritoriji Gornje Mezije,pdf/2010/68-64.pdf
-Radević Isidora,1993,Vrbas,drugi,Gimnazija,Vrbas,ARH,8,2010,Analitička obrada novca Faustine II sa područja limesa u današnjoj Srbiji,pdf/2010/68-65.pdf
-Trnavac Vuk,1993,Novi Sad,drugi,"Gimnazija ""Svetozar Marković""",Novi Sad,ARH,8,2010,Analitička obrada novca Faustine II sa područja limesa u današnjoj Srbiji,pdf/2010/68-65.pdf
-Glavonjić Stefan,1991,Beograd,četvrti,III beogradska gimnazija,Beograd,ARH,9,2010,Arhitektura I ekonomičnost rimskih kupatila sa teritorija Srbije I Makedonije,pdf/2010/68-66.pdf
-Radomirović Kristina,1993,Raška,drugi,Gimnazija,Karlovci,ARH,9,2010,Ornamentalna analiza lula turskog tipa Šabačke tvrđave I teritorije Beograda,pdf/2010/68-67.pdf
+Kostić Milana,1992,Zrenjanin,treći,Gimnazija,Zrenjanin,AHL,17,2010,Skordističke ratničke sahrane sa kremacijom,pdf/2010/68-63.pdf
+Ivanović Ilija,1991,Golubac,četvrti,Srednja škola,Veliko Gradište,AHL,10,2010,Novac provincije Bitinije na teritoriji Gornje Mezije,pdf/2010/68-64.pdf
+Radević Isidora,1993,Vrbas,drugi,Gimnazija,Vrbas,AHL,8,2010,Analitička obrada novca Faustine II sa područja limesa u današnjoj Srbiji,pdf/2010/68-65.pdf
+Trnavac Vuk,1993,Novi Sad,drugi,"Gimnazija ""Svetozar Marković""",Novi Sad,AHL,8,2010,Analitička obrada novca Faustine II sa područja limesa u današnjoj Srbiji,pdf/2010/68-65.pdf
+Glavonjić Stefan,1991,Beograd,četvrti,III beogradska gimnazija,Beograd,AHL,9,2010,Arhitektura I ekonomičnost rimskih kupatila sa teritorija Srbije I Makedonije,pdf/2010/68-66.pdf
+Radomirović Kristina,1993,Raška,drugi,Gimnazija,Karlovci,AHL,9,2010,Ornamentalna analiza lula turskog tipa Šabačke tvrđave I teritorije Beograda,pdf/2010/68-67.pdf
 Milojković Anica,1992,Smederevo,četvrti,Gimnazija,Smederevo,IST,8,2010,Istorija SARTID-a od 1918. do 1929. godine,pdf/2010/68-68.pdf
 Milovanović Jovana,1992,Rača,drugi,"Srednja škola ""Đura Jakšić""",Rača,IST,7,2010,Državna mešovita nepotpuna gimnazija (1945-1950),pdf/2010/68-69.pdf
 Bojičić Lazar,1992,Smederevo,treći,Gimnazija,Smederevo,LIN,9,2010,Uticaj prozodijskog sistema srpskog jezika na fenomen takete-maluma,pdf/2010/68-70.pdf
@@ -930,9 +930,9 @@ Ranković Vladimir,1992,Beograd,četvrti,Matematička gimnazija,Beograd,PFE,6,20
 Timotić Lazar,1992,Badovinci,četvrti,Tehnička škola,Šabac,PFE,6,2011,Lokalizacija robota pomoću optičkog senzora,pdf/2011/69-15.pdf
 Stojanović Miloš,1993,Beograd,treći,IX beogradska gimnazija,Beograd,PFE,7,2011,Primena skrivenog Markovljevog modela u prepoznavanju znakovnog jezika,pdf/2011/69-16.pdf
 Todorčević Natalija,1994,Kragujevac,drugi,I kragujevačka gimnazija,Kragujevac,PFE,8,2011,Statistički pristup detekciji lica i lokalizacija karakterističnih tačaka lica,pdf/2011/69-17.pdf
-Silađi Daniel,1995,Novi Sad,prvi,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAČ,5,2011,Genetski algoritmi i Problem trgovačkog putnika,pdf/2011/69-18.pdf
-Makarić Vladimir,1993,Novi Sad,treći,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAČ,17,2011,Istraživanje nepoznatog terena,pdf/2011/69-19.pdf
-Miličić Stefan,1993,Jagodina,treći,Računarska gimnazija,Beograd,RAČ,4,2011,Skeniranje 3D objekata metodom triangulacije lasera,pdf/2011/69-20.pdf
+Silađi Daniel,1995,Novi Sad,prvi,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAC,5,2011,Genetski algoritmi i Problem trgovačkog putnika,pdf/2011/69-18.pdf
+Makarić Vladimir,1993,Novi Sad,treći,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAC,17,2011,Istraživanje nepoznatog terena,pdf/2011/69-19.pdf
+Miličić Stefan,1993,Jagodina,treći,Računarska gimnazija,Beograd,RAC,4,2011,Skeniranje 3D objekata metodom triangulacije lasera,pdf/2011/69-20.pdf
 Atanacković Iva,1993,Beograd,treći,"Gimnazija ""Sveti Sava""",Beograd,BIO,20,2011,"Uticaj aminoglikozidnih antibiotika na rast, produkciju biosurfaktanata i biodegradaciju dizela kod Pseudomonas sp. i Pseudomonas Stutzeri",pdf/2011/69-21.pdf
 Vukojičić Nevena,1993,Beograd,četvrti,VI beogradska gimnazija,Beograd,BIO,16,2011,Prilog poznavanju diverziteta i ekologije makromiceta Medvednika i Jablanika,pdf/2011/69-22.pdf
 Atanacković Iva,1993,Beograd,treći,"Gimnazija ""Sveti Sava""",Beograd,BIO,9,2011,Fraktalni rast soka Pseudomonas sp. Na podlogama sa različitim koncentracijama glukoze i prostornim rasporedima kolonija,pdf/2011/69-23.pdf
@@ -965,16 +965,16 @@ Milosav Đorđe,,Kikinda,drugi,"Srednja stručna škola ""Miloš Crnjanski""",Ki
 Jugović Spajić Damjan,1992,Beograd,četvrti,VI beogradska gimnazija,Beograd,ANT,11,2011,"""For the Horde"": Ispitivanje osećaja frakcijske pripadnosti u igri Word of Warcraft",pdf/2011/69-44.pdf
 Srećković Sanja,1993,Sopot,treći,Ekonomsko-trgovinske škole,Sopot,ANT,6,2011,Transnacionalizam u Sopotu: studija slučaja,pdf/2011/69-45.pdf
 Dukić Ivana,1993,Kraljevo,treći,Ekonomsko-trgovinske škole,Kraljevo,ANT,6,2011,Navijanje kao praksa banalnog nacionalizma: Svetsko prvenstvo u fudbalu u Južnoj Africi 2010. godine,pdf/2011/69-46.pdf
-Dragišić Neda,1994,Kladovo,drugi,Srednja škola,Kladovo,ARH,15,2011,"Aspekti poštovanje Kibelinog i Atisovog kulta na teritoriji gornje Mezije, Donje Panonije i istočne Dalmacije",pdf/2011/69-47.pdf
-Macanović Ana,1994,Beograd,treći,"Gimnazija ""Ruđer Bošković""",Beograd,ARH,15,2011,"Aspekti poštovanje Kibelinog i Atisovog kulta na teritoriji gornje Mezije, Donje Panonije i istočne Dalmacije",pdf/2011/69-47.pdf
-Dimitrijević Ivana,1994,,drugi,Gimnazija,Zaječar,ARH,15,2011,Motivi krokodila na antičkim mozaicima,pdf/2011/69-48.pdf
-Savić Milan,1993,"selo Pepeljevac, Kuršumlija",treći,Gimnazija,Kuršumlija,ARH,15,2011,Motivi krokodila na antičkim mozaicima,pdf/2011/69-48.pdf
-Avdić Ivan,1994,Kragujevac,drugi,II kragujevačka gimnazija,Kragujevac,ARH,8,2011,Kamene grobne konstrukcije u okolini Valjeva,pdf/2011/69-49.pdf
-Marković Dimitrije,1993,Kruševac,treći,Gimnazija,Kruševac,ARH,8,2011,Kamene grobne konstrukcije u okolini Valjeva,pdf/2011/69-49.pdf
-Murganić Ana,1993,Kruševac,treći,Gimnazija,Kruševac,ARH,8,2011,Kamene grobne konstrukcije u okolini Valjeva,pdf/2011/69-49.pdf
-Slijepčević Ružica,1995,Zrenjanin,drugi,Gimnazija,Karlovci,ARH,7,2011,Analiza nadgrobnih spomenika sa seoskog groblja u Robajama,pdf/2011/69-50.pdf
-Stanojević Đurđa,1995,Svilajnac,treći,Srednja škola,Svilajnac,ARH,7,2011,Analiza nadgrobnih spomenika sa seoskog groblja u Robajama,pdf/2011/69-50.pdf
-Grumić Tijana,1993,Stara Pazova,treći,Gimnazija,Stara Pazova,ARH,7,2011,Provera uticaja vremenskog intervala pečenja u zatvorenom sistemu na neolitskim figurinama kosovske varijante,pdf/2011/69-51.pdf
+Dragišić Neda,1994,Kladovo,drugi,Srednja škola,Kladovo,AHL,15,2011,"Aspekti poštovanje Kibelinog i Atisovog kulta na teritoriji gornje Mezije, Donje Panonije i istočne Dalmacije",pdf/2011/69-47.pdf
+Macanović Ana,1994,Beograd,treći,"Gimnazija ""Ruđer Bošković""",Beograd,AHL,15,2011,"Aspekti poštovanje Kibelinog i Atisovog kulta na teritoriji gornje Mezije, Donje Panonije i istočne Dalmacije",pdf/2011/69-47.pdf
+Dimitrijević Ivana,1994,,drugi,Gimnazija,Zaječar,AHL,15,2011,Motivi krokodila na antičkim mozaicima,pdf/2011/69-48.pdf
+Savić Milan,1993,"selo Pepeljevac, Kuršumlija",treći,Gimnazija,Kuršumlija,AHL,15,2011,Motivi krokodila na antičkim mozaicima,pdf/2011/69-48.pdf
+Avdić Ivan,1994,Kragujevac,drugi,II kragujevačka gimnazija,Kragujevac,AHL,8,2011,Kamene grobne konstrukcije u okolini Valjeva,pdf/2011/69-49.pdf
+Marković Dimitrije,1993,Kruševac,treći,Gimnazija,Kruševac,AHL,8,2011,Kamene grobne konstrukcije u okolini Valjeva,pdf/2011/69-49.pdf
+Murganić Ana,1993,Kruševac,treći,Gimnazija,Kruševac,AHL,8,2011,Kamene grobne konstrukcije u okolini Valjeva,pdf/2011/69-49.pdf
+Slijepčević Ružica,1995,Zrenjanin,drugi,Gimnazija,Karlovci,AHL,7,2011,Analiza nadgrobnih spomenika sa seoskog groblja u Robajama,pdf/2011/69-50.pdf
+Stanojević Đurđa,1995,Svilajnac,treći,Srednja škola,Svilajnac,AHL,7,2011,Analiza nadgrobnih spomenika sa seoskog groblja u Robajama,pdf/2011/69-50.pdf
+Grumić Tijana,1993,Stara Pazova,treći,Gimnazija,Stara Pazova,AHL,7,2011,Provera uticaja vremenskog intervala pečenja u zatvorenom sistemu na neolitskim figurinama kosovske varijante,pdf/2011/69-51.pdf
 Samardžić Siniša,1995,Palić,drugi,Tehnička škola,Subotica,IST,8,2011,"Baron Lajoš Vermeš, lokalni heroj",pdf/2011/69-52.pdf
 Đorović Fedor,1992,Beograd,treći,Filološka gimnazija,Beograd,IST,7,2011,Mačevanje u Beogradu u periodu od 1960. do 1980. godine,pdf/2011/69-53.pdf
 Milosavljević Stefan,1993,Lebane,treći,Gimnazija,Lebane,LIN,13,2011,Prenošenje akcenta prizrensko-timočkog dijalekta na teritoriji Lebana u čitanom tekstu pod uticajem pripadnosti teksta različitim sferama komunikacije i generacijskih razlika,pdf/2011/69-54.pdf
@@ -1020,9 +1020,9 @@ Nenezić Bojana,1993,Beograd,četvrti,III beogradska gimnazija,Beograd,PFE,7,201
 Stojanović Miloš,1993,Beograd,četvrti,IX beogradska gimnazija,Beograd,PFE,5,2012,Mapiranje prostora pomoću Turtlbota,pdf/2012/70-17.pdf
 Arbanas Miloš,1993,Sremska Mitrovica,četvrti,Mitrovačka gimnazija,Sremska Mitrovica,PFE,5,2012,Mapiranje prostora pomoću Turtlbota,pdf/2012/70-17.pdf
 Hardi Nikola,1993,Kula,četvrti,"Tehnička škola ""Nikola Tesla""",Kula,PFE,1,2012,Lokalizacija robota u poznatom okruženju korišćenjem partikl filtra,pdf/2012/70-18.pdf
-Silađi Daniel,1995,Novi Sad,drugi,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAČ,5,2012,Simulacija tečnosti u dve dimenzije,pdf/2012/70-19.pdf
-Makarić Vladimir,1993,Novi Sad,četvrti,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAČ,9,2012,Implementacija fizike mekanih tela,pdf/2012/70-20.pdf
-Miličić Stevan,1993,Jagodina,četvrti,Računarska gimnazija,Beograd,RAČ,3,2012,Simulacija saobraćaja,pdf/2012/70-21.pdf
+Silađi Daniel,1995,Novi Sad,drugi,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAC,5,2012,Simulacija tečnosti u dve dimenzije,pdf/2012/70-19.pdf
+Makarić Vladimir,1993,Novi Sad,četvrti,"Gimnazija ""Jovan Jovanović Zmaj""",Novi Sad,RAC,9,2012,Implementacija fizike mekanih tela,pdf/2012/70-20.pdf
+Miličić Stevan,1993,Jagodina,četvrti,Računarska gimnazija,Beograd,RAC,3,2012,Simulacija saobraćaja,pdf/2012/70-21.pdf
 Puzović Nataša,1993,Beograd,četvrti,IX beogradska gimnazija,Beograd,BIO,9,2012,Ispitivanje polnog dimorfizma vrste Calopteryx virgo L. (Odonata: Calopterygidae) u okolini reke Banje I reke Gradac,pdf/2012/70-22.pdf
 Đorđević Jelisaveta,1993,Beograd,četvrti,VI beogradska gimnazija,Beograd,BIO,9,2012,Ispitivanje polnog dimorfizma vrste Calopteryx virgo L. (Odonata: Calopterygidae) u okolini reke Banje I reke Gradac,pdf/2012/70-22.pdf
 Donević Anđela,1995,Leskovac,drugi,Gimnazija,Leskovac,BIO,8,2012,Određivanje kvaliteta vode Petničkog jezera na osnovu diverziteta fitoplanktonskih I epifitskih algi,pdf/2012/70-23.pdf
@@ -1061,14 +1061,14 @@ Jončev Zlatko,1993,Šabac,četvrti,Medicinska škola,Šabac,HEM,1,2012,Ispitiva
 Milosav Đorđe,1994,Kikinda,treći,"Srednja stručna škola ""Miloš Crnjanski""",Kikinda,ANT,18,2012,Borbe gusana u Mokrinu: antropološka analiza ljudsko-životinjskih odnosa,pdf/2012/70-48.pdf
 Kostić Dijana,1993,Trnovča,četvrti,Gimnazija,Velika Plana,ANT,16,2012,Talas koji se širi: Kako stigma osoba sa invaliditetom utiče na konstruisanje samopoimanja njihovih roditelja,pdf/2012/70-49.pdf
 Dukić Ivana,1993,Kraljevo,četvrti,Ekonomsko-trgovinska škola,Kraljevo,ANT,16,2012,Talas koji se širi: Kako stigma osoba sa invaliditetom utiče na konstruisanje samopoimanja njihovih roditelja,pdf/2012/70-49.pdf
-Obradović Nikola,,Užice,treći,Gimnazija,Užice,ARH,10,2012,Priprema i pečenje rimskog kolača placente,pdf/2012/70-50.pdf
-Trnavac Vuk,1993,Novi Sad,četvrti,"Gimnazija ""Svetozar Marković""",Novi Sad,ARH,13,2012,Predstave gladijatorskih spektakala sa područja rimskih provincija zapadnog Balkana,pdf/2012/70-51.pdf
-Savić Milan,1993,"selo Pepeljevac, Kuršumlija",četvrti,Gimnazija,Kuršumlija,ARH,13,2012,Predstave gladijatorskih spektakala sa područja rimskih provincija zapadnog Balkana,pdf/2012/70-51.pdf
-Marić Dušan,1994,Novi Sad,treći,"Gimnazija ""Svetozar Marković""",Novi Sad,ARH,8,2012,Analiza oružja Svetih ratnika na freskama u manastiru Manasija,pdf/2012/70-52.pdf
-Savić Andrija,1995,Kragujevac,drugi,II kragujevačka gimnazija,Kragujevac,ARH,8,2012,Analiza oružja Svetih ratnika na freskama u manastiru Manasija,pdf/2012/70-52.pdf
-Avdić Ivan,1994,Kragujevac,treći,II kragujevačka gimnazija,Kragujevac,ARH,6,2012,Analiza životinjskih kostiju iz arheološke celine Kula 4 sa lokaliteta Jerinin grad u selu Brangović,pdf/2012/70-53.pdf
-Bogić Jasminka,1993,Stara Pazova,četvrti,Gimnazija,Stara Pazova,ARH,6,2012,Analiza životinjskih kostiju iz arheološke celine Kula 4 sa lokaliteta Jerinin grad u selu Brangović,pdf/2012/70-53.pdf
-Grumić Tijana,1993,Stara Pazova,četvrti,Gimnazija,Stara Pazova,ARH,6,2012,Analiza životinjskih kostiju iz arheološke celine Kula 4 sa lokaliteta Jerinin grad u selu Brangović,pdf/2012/70-53.pdf
+Obradović Nikola,,Užice,treći,Gimnazija,Užice,AHL,10,2012,Priprema i pečenje rimskog kolača placente,pdf/2012/70-50.pdf
+Trnavac Vuk,1993,Novi Sad,četvrti,"Gimnazija ""Svetozar Marković""",Novi Sad,AHL,13,2012,Predstave gladijatorskih spektakala sa područja rimskih provincija zapadnog Balkana,pdf/2012/70-51.pdf
+Savić Milan,1993,"selo Pepeljevac, Kuršumlija",četvrti,Gimnazija,Kuršumlija,AHL,13,2012,Predstave gladijatorskih spektakala sa područja rimskih provincija zapadnog Balkana,pdf/2012/70-51.pdf
+Marić Dušan,1994,Novi Sad,treći,"Gimnazija ""Svetozar Marković""",Novi Sad,AHL,8,2012,Analiza oružja Svetih ratnika na freskama u manastiru Manasija,pdf/2012/70-52.pdf
+Savić Andrija,1995,Kragujevac,drugi,II kragujevačka gimnazija,Kragujevac,AHL,8,2012,Analiza oružja Svetih ratnika na freskama u manastiru Manasija,pdf/2012/70-52.pdf
+Avdić Ivan,1994,Kragujevac,treći,II kragujevačka gimnazija,Kragujevac,AHL,6,2012,Analiza životinjskih kostiju iz arheološke celine Kula 4 sa lokaliteta Jerinin grad u selu Brangović,pdf/2012/70-53.pdf
+Bogić Jasminka,1993,Stara Pazova,četvrti,Gimnazija,Stara Pazova,AHL,6,2012,Analiza životinjskih kostiju iz arheološke celine Kula 4 sa lokaliteta Jerinin grad u selu Brangović,pdf/2012/70-53.pdf
+Grumić Tijana,1993,Stara Pazova,četvrti,Gimnazija,Stara Pazova,AHL,6,2012,Analiza životinjskih kostiju iz arheološke celine Kula 4 sa lokaliteta Jerinin grad u selu Brangović,pdf/2012/70-53.pdf
 Samardžić Siniša,1995,Palić,treći,"Tehnička škola ""Ivan Sarić""",Subotica,IST,7,2012,Politika i sport: IV pokrajinski sokolski slet Saveza sokola Kraljevine Jugoslavije u Subotici 1936. godine,pdf/2012/70-54.pdf
 Kravljača Dušan,1994,Požega,četvrti,"Gimnazija ""Sveti Sava""",Požega,IST,7,2012,Politika i sport: IV pokrajinski sokolski slet Saveza sokola Kraljevine Jugoslavije u Subotici 1936. godine,pdf/2012/70-54.pdf
 Milosavljević Stefan,1993,Lebane,četvrti,Gimnazija,Lebane,LIN,14,2012,Brojna partitivna konstrukcija u srpskom jeziku uz glagole koji kao rekciju zahtevaju bespredloški dativ na primeru broja pet,pdf/2012/70-55.pdf
@@ -1117,9 +1117,9 @@ Gođevac Dejan,1978,Valjevo,treći,Poljoprivredna škola,Valjevo,HEM,3,1995,Sint
 Vuković Milan,1977,Priboj,treći,Gimnazija,Priboj,HEM,7,1995,Ispitivanje kvaliteta različitih vrsta meda,pdf/1995/HEM9504.pdf
 Jovanović Ana,1978,Kraljevo,drugi,Gimnazija,Kraljevo,HEM,10,1995,Uticaj industrije Magnohrom na životnu sredinu područja Kraljeva,pdf/1995/HEM9505.pdf
 Petrović Vladimir,1978,Apatin,drugi,"Gimnazija ""Nikola Tesla""",Apatin,HEM,8,1995,Ispitivanje kvaliteta različitih vrsta đubriva dobijenih radom kalifornijskih glista i njihov uticaj na kvalitet paradajza,pdf/1995/HEM9506.pdf
-Drljević Tamara,1977,Beograd,treći,Filološka gimnazija,Beograd,PSI,6,1995,Odnos između samopoimanja inteligencije i rezultata na testu inteligencije,pdf/1995/PSI9501.pdf
-Sozdanović Radmila,1977,Jagodina,treći,Matematička gimnazija,Beograd,PSI,6,1995,Odnos između samopoimanja inteligencije i rezultata na testu inteligencije,pdf/1995/PSI9501.pdf
-Bogićević Marija,1978,Beograd,treći,"Elektrotehnička škola ""Nikola Tesla""",Beograd,RAČ,27,1995,Postavka i testiranje ViewIt algoritma,pdf/1995/RAC9501.pdf
+Drljević Tamara,1977,Beograd,treći,Filološka gimnazija,Beograd,PSH,6,1995,Odnos između samopoimanja inteligencije i rezultata na testu inteligencije,pdf/1995/PSI9501.pdf
+Sozdanović Radmila,1977,Jagodina,treći,Matematička gimnazija,Beograd,PSH,6,1995,Odnos između samopoimanja inteligencije i rezultata na testu inteligencije,pdf/1995/PSI9501.pdf
+Bogićević Marija,1978,Beograd,treći,"Elektrotehnička škola ""Nikola Tesla""",Beograd,RAC,27,1995,Postavka i testiranje ViewIt algoritma,pdf/1995/RAC9501.pdf
 Nikitović Dejana,1979,Zemun,treći,Zemunska gimnazija,Zemun,AHL,7,1996,Sistematizacija ornamenata na nadgrobnim spomenicima sa srednjevekovne nekropole u Dićima,pdf/1996/AHL9601.pdf
 Stevanović Jovanka,1978,Zemun,treći,XI beogradska gimnazija,Beograd,AHL,10,1996,Stambena arhitektura naselja vinčansko-pločničke faze u valjevskom kraju,pdf/1996/AHL9602.pdf
 Mihaljević Bojana,1978,Beograd,treći,V beogradska gimnazija,Beograd,AHL,10,1996,Stambena arhitektura naselja vinčansko-pločničke faze u valjevskom kraju,pdf/1996/AHL9602.pdf
@@ -1194,25 +1194,25 @@ Stanković Ivan,,,,,,HEM,6,1996,Određivanje intenziteta longitudinalne migracij
 Šaulić Dušan,,,,,,HEM,4,1996,Ispitivanje mogućnosti upotrebe turbidimetrije za registrovanje sirkolaže,pdf/1996/HEM9605.pdf
 Popović Zoran,,,,,,HEM,4,1996,Ispitivanje mogućnosti upotrebe turbidimetrije za registrovanje sirkolaže,pdf/1996/HEM9605.pdf
 Cvetković Dušan,,,,,,HEM,5,1996,Mogućnost iskorišćenja konvertorske troske kao mineralnog đubriva,pdf/1996/HEM9606.pdf
-Stokanović Vesna,,,,,,PSI,10,1996,"Relacije između socio-demografskih faktora, seksualnog iskustva i self-koncepta kod muških adolescenata",pdf/1996/PSI9601.pdf
-Bursać Bojana,,,,,,PSI,10,1996,"Relacije između socio-demografskih faktora, seksualnog iskustva i self-koncepta kod muških adolescenata",pdf/1996/PSI9601.pdf
-Mitić Jelena,,,,,,PSI,5,1996,Razlika između učenika srednjih škola i petničke populacije u izraženosti polnih stereotipija,pdf/1996/PSI9602.pdf
-Stanković Jelena,,,,,,PSI,5,1996,Razlika između učenika srednjih škola i petničke populacije u izraženosti polnih stereotipija,pdf/1996/PSI9602.pdf
-Sozdanović Radmila,,,,,,PSI,6,1996,Opažanje forme u slabo struktuiranoj stimulaciji,pdf/1996/PSI9603.pdf
-Dakulović Sandra,,,,,,PSI,5,1996,Opažanje forme u skupovima tačaka,pdf/1996/PSI9604.pdf
-Drljević Tamara,,,,,,PSI,5,1996,Procena dobre forme simetričnih konfiguracija tačaka,pdf/1996/PSI9605.pdf
-Simović Vojislav,,,,,,PSI,5,1996,Povezanost socio-demografskih faktora i seksualnog iskustva sa izraženošću polnih stereotipija,pdf/1996/PSI9606.pdf
-Stanojević Željko,,,,,,PSI,5,1996,Povezanost socio-demografskih faktora i seksualnog iskustva sa izraženošću polnih stereotipija,pdf/1996/PSI9606.pdf
-Dragović Boris,,,,,,RAČ,6,1996,FINES − sistem za balansiranje opterećenosti diskova na Linux operativnom sistemu pod TCP/IP protokolom ,pdf/1996/RAC9601.pdf
-Radivojević Boško,,,,,,RAČ,6,1996,FINES − sistem za balansiranje opterećenosti diskova na Linux operativnom sistemu pod TCP/IP protokolom ,pdf/1996/RAC9601.pdf
-Todorović Aleksa,,,,,,RAČ,8,1996,Programski jezik za programiranje na prirodnom jeziku,pdf/1996/RAC9602.pdf
-Stolić Predrag,,,,,,RAČ,6,1996,Primena programa APC kod optimizacije procesa topljenja prženca bakra ,pdf/1996/RAC9603.pdf
-Tanasić Slobodan,,,,,,RAČ,6,1996,Text manager − indeksiranje i pretraživanje teksta,pdf/1996/RAC9604.pdf
-Miletić Filip,,,,,,RAČ,10,1996,Analiza zavisnosti iskaza u programskom kodu,pdf/1996/RAC9605.pdf
-Stojković Vojislav,,,,,,RAČ,4,1996,INQUIRER v1.0 − sistem za postavljanje upita bazi podataka na prirodnom jeziku ,pdf/1996/RAC9606.pdf
-Bogićević Marija,,,,,,RAČ,11,1996,ParViewit za Unix,pdf/1996/RAC9607.pdf
-Milosavljević Nikola,,,,,,RAČ,5,1996,Algoritam za uređivanje procedura i funkcija Paskal programa u optimalan redosled,pdf/1996/RAC9608.pdf
-Paunov Igor,,,,,,RAČ,7,1996,Vizuelno raspoznavanje uzoraka − otklanjanje škarta iz proizvodnje,pdf/1996/RAC9609.pdf
+Stokanović Vesna,,,,,,PSH,10,1996,"Relacije između socio-demografskih faktora, seksualnog iskustva i self-koncepta kod muških adolescenata",pdf/1996/PSI9601.pdf
+Bursać Bojana,,,,,,PSH,10,1996,"Relacije između socio-demografskih faktora, seksualnog iskustva i self-koncepta kod muških adolescenata",pdf/1996/PSI9601.pdf
+Mitić Jelena,,,,,,PSH,5,1996,Razlika između učenika srednjih škola i petničke populacije u izraženosti polnih stereotipija,pdf/1996/PSI9602.pdf
+Stanković Jelena,,,,,,PSH,5,1996,Razlika između učenika srednjih škola i petničke populacije u izraženosti polnih stereotipija,pdf/1996/PSI9602.pdf
+Sozdanović Radmila,,,,,,PSH,6,1996,Opažanje forme u slabo struktuiranoj stimulaciji,pdf/1996/PSI9603.pdf
+Dakulović Sandra,,,,,,PSH,5,1996,Opažanje forme u skupovima tačaka,pdf/1996/PSI9604.pdf
+Drljević Tamara,,,,,,PSH,5,1996,Procena dobre forme simetričnih konfiguracija tačaka,pdf/1996/PSI9605.pdf
+Simović Vojislav,,,,,,PSH,5,1996,Povezanost socio-demografskih faktora i seksualnog iskustva sa izraženošću polnih stereotipija,pdf/1996/PSI9606.pdf
+Stanojević Željko,,,,,,PSH,5,1996,Povezanost socio-demografskih faktora i seksualnog iskustva sa izraženošću polnih stereotipija,pdf/1996/PSI9606.pdf
+Dragović Boris,,,,,,RAC,6,1996,FINES − sistem za balansiranje opterećenosti diskova na Linux operativnom sistemu pod TCP/IP protokolom ,pdf/1996/RAC9601.pdf
+Radivojević Boško,,,,,,RAC,6,1996,FINES − sistem za balansiranje opterećenosti diskova na Linux operativnom sistemu pod TCP/IP protokolom ,pdf/1996/RAC9601.pdf
+Todorović Aleksa,,,,,,RAC,8,1996,Programski jezik za programiranje na prirodnom jeziku,pdf/1996/RAC9602.pdf
+Stolić Predrag,,,,,,RAC,6,1996,Primena programa APC kod optimizacije procesa topljenja prženca bakra ,pdf/1996/RAC9603.pdf
+Tanasić Slobodan,,,,,,RAC,6,1996,Text manager − indeksiranje i pretraživanje teksta,pdf/1996/RAC9604.pdf
+Miletić Filip,,,,,,RAC,10,1996,Analiza zavisnosti iskaza u programskom kodu,pdf/1996/RAC9605.pdf
+Stojković Vojislav,,,,,,RAC,4,1996,INQUIRER v1.0 − sistem za postavljanje upita bazi podataka na prirodnom jeziku ,pdf/1996/RAC9606.pdf
+Bogićević Marija,,,,,,RAC,11,1996,ParViewit za Unix,pdf/1996/RAC9607.pdf
+Milosavljević Nikola,,,,,,RAC,5,1996,Algoritam za uređivanje procedura i funkcija Paskal programa u optimalan redosled,pdf/1996/RAC9608.pdf
+Paunov Igor,,,,,,RAC,7,1996,Vizuelno raspoznavanje uzoraka − otklanjanje škarta iz proizvodnje,pdf/1996/RAC9609.pdf
 Bogner Ana,,,,,,AHL,6,1997,Forme i oblici drški na posuđu,pdf/1997/AHL9701.PDF
 Erdeljan Bogdan,,,,,,AHL,8,1997,Formalne karakteristike dna na posu|u,pdf/1997/AHL9702.PDF
 Ćosić Ivan,,,,,,AHL,7,1997,Formalno-tipološke klase posuđa,pdf/1997/AHL9703.PDF
@@ -1270,13 +1270,13 @@ Davidović Jasna,,,,,,LIN,17,1997,Hidronimija laktaške Župe,pdf/1997/LNG9702.P
 Kravić Miljana,,,,,,LIN,17,1997,Nominacija u odbojkaškoj leksici i terminologiji,pdf/1997/LNG9703.PDF
 Pavlović Natalija,,,,,,LIN,11,1997,Stilistika beogradskih grafita,pdf/1997/LNG9704.PDF
 Kovačević Olivera,,,,,,LIN,11,1997,Tvorbena porodica morfeme rob u srpskom jeziku (naslov prvog reda),pdf/1997/LNG9705.PDF
-Čolović Jovana,,,,,,PSI,15,1997,Dečja prava sa njihove tačke gledišta,pdf/1997/PSI9701.PDF
-Tašić Jelena,,,,,,PSI,15,1997,Dečja prava sa njihove tačke gledišta,pdf/1997/PSI9701.PDF
-Obradović Tatjana,,,,,,PSI,15,1997,Dečja prava sa njihove tačke gledišta,pdf/1997/PSI9701.PDF
-Miletić Filip,,,,,,RAČ,20,1997,JAFFA: Prenosivi kompajler,pdf/1997/RAC9701.PDF
-Krunić Veljko,,,,,,RAČ,7,1997,Problemi sinhronizacije u distribuiranim real-time grafičkim sistemima,pdf/1997/RAC9702.PDF
-Dragović Boris,,,,,,RAČ,7,1997,Problemi sinhronizacije u distribuiranim real-time grafičkim sistemima,pdf/1997/RAC9702.PDF
-Rilak Zoran,,,,,,RAČ,6,1997,BModem -- modemski protokol za prenos fajlova,pdf/1997/RAC9703.PDF
+Čolović Jovana,,,,,,PSH,15,1997,Dečja prava sa njihove tačke gledišta,pdf/1997/PSI9701.PDF
+Tašić Jelena,,,,,,PSH,15,1997,Dečja prava sa njihove tačke gledišta,pdf/1997/PSI9701.PDF
+Obradović Tatjana,,,,,,PSH,15,1997,Dečja prava sa njihove tačke gledišta,pdf/1997/PSI9701.PDF
+Miletić Filip,,,,,,RAC,20,1997,JAFFA: Prenosivi kompajler,pdf/1997/RAC9701.PDF
+Krunić Veljko,,,,,,RAC,7,1997,Problemi sinhronizacije u distribuiranim real-time grafičkim sistemima,pdf/1997/RAC9702.PDF
+Dragović Boris,,,,,,RAC,7,1997,Problemi sinhronizacije u distribuiranim real-time grafičkim sistemima,pdf/1997/RAC9702.PDF
+Rilak Zoran,,,,,,RAC,6,1997,BModem -- modemski protokol za prenos fajlova,pdf/1997/RAC9703.PDF
 Đokić Ivana,,,,,,AHL,18,1998,Praistorijski kameni alati sa lokaliteta u Čučugama,pdf/1998/ahl9801.pdf
 Radivojević Miljana,,,,,,AHL,25,1998,Rekognosticiranje i planigrafija lokaliteta Kremen-Mačina,pdf/1998/ahl9802.pdf
 Stevanović Petar,,,,,,AHL,15,1998,Upotrebna grnčarija sa eneolitskog lokaliteta Velimirovi Dvori - Ključ,pdf/1998/ahl9803.pdf
@@ -1324,17 +1324,17 @@ Vilotijević Ivan,,,,,,HEM,10,1998,Uticaj kiselosti sredine na rastvorljivost zu
 Ignjatović Ana,,,,,,LIN,13,1998,Govor užeg područja opštine Batočina - dijalekatska necelovitost Šumadije,pdf/1998/lng9802.pdf
 Bijelić Marija,,,,,,LIN,9,1998,Žargonizmi i okazionalizmi u tekstovima Vudu Popaja,pdf/1998/lng9803.pdf
 Zdravko Trivić,,,,,,LIN,7,1998,Upotreba složenog predikta u Putopisima Miloša Crnjanskog,pdf/1998/lng9804.pdf
-Mladenović Tijana,,,,,,PSI,7,1998,Konstrukcija skale semantičkog diferencijala za merenje konotativnog aspekta značenja,pdf/1998/psi9801.pdf
-Varga Andrea,,,,,,PSI,7,1998,Konstrukcija skale semantičkog diferencijala za merenje konotativnog aspekta značenja,pdf/1998/psi9801.pdf
-Nijemčević Đorđe,,,,,,PSI,9,1998,Povezanost konotativnog značenja i fenološke strukture pojmova,pdf/1998/psi9802.pdf
-Čabrilo Maja,,,,,,PSI,7,1998,Kategorizacija pojmova u konotativnom semantičkom prostoru,pdf/1998/psi9803.pdf
-Ilić Pavle,,,,,,PSI,7,1998,Kategorizacija pojmova u konotativnom semantičkom prostoru,pdf/1998/psi9803.pdf
-Robulj Zoran,,,,,,PSI,7,1998,Kategorizacija pojmova u konotativnom semantičkom prostoru,pdf/1998/psi9803.pdf
-Gornik Milan,,,,,,RAČ,8,1998,LISP Query System,pdf/1998/rac9801.pdf
-Šabović Nebojša,,,,,,RAČ,9,1998,PINUSD - simulator digitalnih kola opisanih u jeziku C++,pdf/1998/rac9802.pdf
-Obradović Miroslav,,,,,,RAČ,6,1998,Chord Generator,pdf/1998/rac9803.pdf
-Novosel Vladimir,,,,,,RAČ,8,1998,Ispitivanje izomorfnosti grafova,pdf/1998/rac9804.pdf
-Brakus Jovan,,,,,,RAČ,4,1998,Inverzna metoda generisanja Huffmanovog stabla za kodiranje,pdf/1998/rac9805.pdf
+Mladenović Tijana,,,,,,PSH,7,1998,Konstrukcija skale semantičkog diferencijala za merenje konotativnog aspekta značenja,pdf/1998/psi9801.pdf
+Varga Andrea,,,,,,PSH,7,1998,Konstrukcija skale semantičkog diferencijala za merenje konotativnog aspekta značenja,pdf/1998/psi9801.pdf
+Nijemčević Đorđe,,,,,,PSH,9,1998,Povezanost konotativnog značenja i fenološke strukture pojmova,pdf/1998/psi9802.pdf
+Čabrilo Maja,,,,,,PSH,7,1998,Kategorizacija pojmova u konotativnom semantičkom prostoru,pdf/1998/psi9803.pdf
+Ilić Pavle,,,,,,PSH,7,1998,Kategorizacija pojmova u konotativnom semantičkom prostoru,pdf/1998/psi9803.pdf
+Robulj Zoran,,,,,,PSH,7,1998,Kategorizacija pojmova u konotativnom semantičkom prostoru,pdf/1998/psi9803.pdf
+Gornik Milan,,,,,,RAC,8,1998,LISP Query System,pdf/1998/rac9801.pdf
+Šabović Nebojša,,,,,,RAC,9,1998,PINUSD - simulator digitalnih kola opisanih u jeziku C++,pdf/1998/rac9802.pdf
+Obradović Miroslav,,,,,,RAC,6,1998,Chord Generator,pdf/1998/rac9803.pdf
+Novosel Vladimir,,,,,,RAC,8,1998,Ispitivanje izomorfnosti grafova,pdf/1998/rac9804.pdf
+Brakus Jovan,,,,,,RAC,4,1998,Inverzna metoda generisanja Huffmanovog stabla za kodiranje,pdf/1998/rac9805.pdf
 Arsić Radivoje,,,,,,AHL,36,1999,Petnička pećina - Dvorana sa vigledima,pdf/1999/ahl9901.pdf
 Mrđić Nemanja,,,,,,AHL,36,1999,Petnička pećina - Dvorana sa vigledima,pdf/1999/ahl9901.pdf
 Filipović Vojislav,,,,,,AHL,9,1999,Multimedijalna prezentacija - evolucija hominida,pdf/1999/ahl9902.pdf
@@ -1402,11 +1402,11 @@ Narančić Dragan,,,,,,HEM,6,1999,Uticaj sečenja nekih plodova metalnim nožem 
 Lukić Meran,,,,,,LIN,5,1999,Definicije u rečniku srpskohrvatskog književnog i narodnog jezika SANU,pdf/1999/lng9902.pdf
 Kulpinac Ivana,,,,,,LIN,8,1999,Poštapalice u jeziku škole,pdf/1999/lng9903.pdf
 Antić Ana,,,,,,LIN,10,1999,Semantička struktura metafore u Korenima Dobrice Cosića,pdf/1999/lng9904.pdf
-Čolović Jovana,,,,,,PSI,8,1999,Efekti pravilnosti i složenosti na subjektivnu procenu slikovnih sadržaja,pdf/1999/psi9901.pdf
-Đorđević Marina,,,,,,PSI,8,1999,Efekti pravilnosti i složenosti na subjektivnu procenu slikovnih sadržaja,pdf/1999/psi9901.pdf
-Tašić Jelena,,,,,,PSI,6,1999,Polne razlike u procenama pojmova na skalama konotativnog diferencijala,pdf/1999/psi9902.pdf
-Vukadinović Slobodan,,,,,,PSI,6,1999,Polne razlike u procenama pojmova na skalama konotativnog diferencijala,pdf/1999/psi9902.pdf
-Tomić Radmila,,,,,,RAČ,7,1999,REGE - program za generisanje rebusa,pdf/1999/rac9901.pdf
+Čolović Jovana,,,,,,PSH,8,1999,Efekti pravilnosti i složenosti na subjektivnu procenu slikovnih sadržaja,pdf/1999/psi9901.pdf
+Đorđević Marina,,,,,,PSH,8,1999,Efekti pravilnosti i složenosti na subjektivnu procenu slikovnih sadržaja,pdf/1999/psi9901.pdf
+Tašić Jelena,,,,,,PSH,6,1999,Polne razlike u procenama pojmova na skalama konotativnog diferencijala,pdf/1999/psi9902.pdf
+Vukadinović Slobodan,,,,,,PSH,6,1999,Polne razlike u procenama pojmova na skalama konotativnog diferencijala,pdf/1999/psi9902.pdf
+Tomić Radmila,,,,,,RAC,7,1999,REGE - program za generisanje rebusa,pdf/1999/rac9901.pdf
 Avdić Ivan,,,,,,AHL,14,2013,Analiza tafonomskih i paleopatoloških promena na ljudskim skeletnim ostacima sa lokaliteta Brangović,pdf/2013/AHL1301.pdf
 Kukić Marija,,,,,,AHL,7,2013,Strategija ishrane na lokalitetu Jerinin grad – Brangović,pdf/2013/AHL1302.pdf
 Mladenović Mladen,,,,,,AHL,7,2013,Strategija ishrane na lokalitetu Jerinin grad – Brangović,pdf/2013/AHL1302.pdf
@@ -1503,10 +1503,10 @@ Pavlović Anđelija,,,,,,PSH,6,2013,Procenjivanje fizičke privlačnosti osoba o
 Mandić Marko,,,,,,PSH,6,2013,Procenjivanje fizičke privlačnosti osoba oba pola u zavisnosti od seksualne orijentacije procenjivača,pdf/2013/PSH1303.pdf
 Salim Isidora,,,,,,PSH,7,2013,Uticaj boje pozadine na procenu privlačnosti lica,pdf/2013/PSH1304.pdf
 Stanojković Tamara,,,,,,PSH,7,2013,Uticaj boje pozadine na procenu privlačnosti lica,pdf/2013/PSH1304.pdf
-Milivojević Aleksandra,,,,,,RAČ,8,2013,Analiza strategija za igru „Ne ljuti se čoveče”,pdf/2013/RAČ1301.pdf
-Todorović Jovana,,,,,,RAČ,8,2013,Analiza strategija za igru „Ne ljuti se čoveče”,pdf/2013/RAČ1301.pdf
-Slavković Viktor,,,,,,RAČ,9,2013,ECS 2D Scriptable Game Maker,pdf/2013/RAČ1302.pdf
-Marković Lazar,,,,,,RAČ,6,2013,Implementacija preprocesivnog dela za rekonstrukciju 3D objekta na osnovu 2D izometrijske projekcije,pdf/2013/RAČ1303.pdf
+Milivojević Aleksandra,,,,,,RAC,8,2013,Analiza strategija za igru „Ne ljuti se čoveče”,pdf/2013/RAC1301.pdf
+Todorović Jovana,,,,,,RAC,8,2013,Analiza strategija za igru „Ne ljuti se čoveče”,pdf/2013/RAC1301.pdf
+Slavković Viktor,,,,,,RAC,9,2013,ECS 2D Scriptable Game Maker,pdf/2013/RAC1302.pdf
+Marković Lazar,,,,,,RAC,6,2013,Implementacija preprocesivnog dela za rekonstrukciju 3D objekta na osnovu 2D izometrijske projekcije,pdf/2013/RAC1303.pdf
 Milivojević Sara,,,,,,AHL,10,2014,Utvrđivanje vegetacije pleistocena okoline Petničke pećine na osnovu analize polena,pdf/2014/AHL1401.pdf
 Ranđelović Bogdan,,,,,,AHL,10,2014,Utvrđivanje vegetacije pleistocena okoline Petničke pećine na osnovu analize polena,pdf/2014/AHL1401.pdf
 Kukić Marija,,,,,,AHL,9,2014,"Tafonomska analiza životinjskih kostiju sa lokaliteta Jerinin grad – Brangović, sezona 2011-2012",pdf/2014/AHL1402.pdf
@@ -1607,9 +1607,9 @@ Pavlović Anđelija,,,,,,PSH,6,2014,"Uticaj pozadinske muzike na procenu neprija
 Slavković Ivan,,,,,,PSH,5,2014,Ispitivanje postojanja Ebinghausove iluzije prilikom haptičke percepcije,pdf/2014/PSH1405.pdf
 Nidžović Emilija,,,,,,PSH,1,2014,Ispitivanje povezanosti religioznosti i dominantne vremenske perspektive kod adolescenata,pdf/2014/PSH1406.pdf
 Tomović Sara,,,,,,PSH,1,2014,Ispitivanje povezanosti religioznosti i dominantne vremenske perspektive kod adolescenata,pdf/2014/PSH1406.pdf
-Jovanović Nikola,,,,,,RAČ,6,2014,Upoređivanje efikasnosti algoritama za snalaženje u lavirintu,pdf/2014/RAČ1401.pdf
-Nožinić Stefan,,,,,,RAČ,6,2014,"Poređenje pouzdanosti prepoznavanja osobe metodom prepoznavanja lica, metodom prepoznavanja govora i kombinacijom ovih metoda",pdf/2014/RAČ1402.pdf
-Keler Stefan,,,,,,RAČ,1,2014,Računarski program za sortiranje serije sličnih fotografija po oštrini,pdf/2014/RAČ1403.pdf
+Jovanović Nikola,,,,,,RAC,6,2014,Upoređivanje efikasnosti algoritama za snalaženje u lavirintu,pdf/2014/RAC1401.pdf
+Nožinić Stefan,,,,,,RAC,6,2014,"Poređenje pouzdanosti prepoznavanja osobe metodom prepoznavanja lica, metodom prepoznavanja govora i kombinacijom ovih metoda",pdf/2014/RAC1402.pdf
+Keler Stefan,,,,,,RAC,1,2014,Računarski program za sortiranje serije sličnih fotografija po oštrini,pdf/2014/RAC1403.pdf
 Daničić Ivana,,,,,,AHL,14,2015,Dentalna analiza osteološkog materijala na individuama iz grobnice 1 sa lokaliteta Jerinin grad – Brangović,pdf/2015/AHL1501.pdf
 Dobrosavljević Ana,,,,,,AHL,6,2015,Provera uticaja izabranih varijanti drški na efikasnost tesle vinčanske kulture,pdf/2015/AHL1502.pdf
 Milojević Sara,,,,,,AHL,4,2015,Palinološka istraivanja kvartarnih sedimenata u Petničkoj pećini (nastavak istraživanja),pdf/2015/AHL1503.pdf
@@ -1687,9 +1687,9 @@ Pavlović Svetlana,,,,,,PSH,12,2015,Uticaj indukovanog emotivnog stanja na proce
 Kolarević Vuk,,,,,,PSH,7,2015,Uticaj brzine kretanja na efekat averzije prilaska,pdf/2015/PSH1503.pdf
 Nidžović Emilija,,,,,,PSH,15,2015,Uticaj frustracije na subjektivni doživljaj brzine protoka vremena,pdf/2015/PSH1504.pdf
 Pantelić Slobodan,,,,,,PSH,15,2015,Uticaj frustracije na subjektivni doživljaj brzine protoka vremena,pdf/2015/PSH1504.pdf
-Jovanović Nikola,,,,,,RAČ,10,2015,Autonomno računarsko igranje igara inspirisano Deep Learning principima,pdf/2015/RAČ1501.pdf
-Nožinić Stefan,,,,,,RAČ,5,2015,Analiza metoda za numeričku simulaciju nestišljivih fluida,pdf/2015/RAČ1502.pdf
-Jovanović Nikola,,,,,,RAČ,7,2015,Primena funkcionalnog programiranja na problem izrade kompajlera,pdf/2015/RAČ1503.pdf
+Jovanović Nikola,,,,,,RAC,10,2015,Autonomno računarsko igranje igara inspirisano Deep Learning principima,pdf/2015/RAC1501.pdf
+Nožinić Stefan,,,,,,RAC,5,2015,Analiza metoda za numeričku simulaciju nestišljivih fluida,pdf/2015/RAC1502.pdf
+Jovanović Nikola,,,,,,RAC,7,2015,Primena funkcionalnog programiranja na problem izrade kompajlera,pdf/2015/RAC1503.pdf
 Radosavljević Aleksandar,,,,,,AHL,12,2016,Uticaji na ikonografiju predstava scena Velikih praznika na ikonostasu crkve Uspenja Presvete Bogorodice u Petnici,pdf/2016/AHL1601.pdf
 Dobrosavljević Ana,,,,,,AHL,7,2016,Određivanje tragova upotrebe na replikama vinčanskih tesli tokom eksperimenta u posebnim uslovima,pdf/2016/AHL1602.pdf
 Milutinović Lora,,,,,,AHL,9,2016,Analiza zooarheološkog materijala iz objekata 5 i 6 na lokalitetu Jerinin grad-Brangović,pdf/2016/AHL1603.pdf
@@ -1769,7 +1769,121 @@ Ilić Lenka,,,,,,PSH,9,2016,Uticaj težine zadatka i valence fidbeka na motivaci
 Anđelić Sara,,,,,,PSH,9,2016,Uticaj težine zadatka i valence fidbeka na motivaciju za nastavak rada i procene zanimljivosti zadatka,pdf/2016/PSH1603.pdf
 Mrkobrada Anja,,,,,,PSH,9,2016,Uticaj težine zadatka i valence fidbeka na motivaciju za nastavak rada i procene zanimljivosti zadatka,pdf/2016/PSH1603.pdf
 Kolarević Vuk,,,,,,PSH,8,2016,Da li je uviđanje pravilnosti u slučajnim nizovima povezano sa tendencijom da se nejasan stimulus opaža kao relevantan?,pdf/2016/PSH1604.pdf
-Vuković Vuk,,,,,,RAČ,7,2016,Razvoj točka od slučajno generisanih mnogouglova primenom genetskih algoritama,pdf/2016/RAČ1601.pdf
-Nožinić Stefan,,,,,,RAČ,5,2016,Analiza zauzeća memorije različitih reprezentacija višeslojnog terena,pdf/2016/RAČ1602.pdf
-Tešić Aleksa,,,,,,RAČ,5,2016,Procena oblačnosti sa noćnih snimaka petničke all-sky kamere za snimanje meteora,pdf/2016/RAČ1603.pdf
-Gavrić Milenko,,,,,,RAČ,8,2016,Prepoznavanje meteora sa serije uzastopnih snimaka all-sky kamere,pdf/2016/RAČ1604.pdf
+Vuković Vuk,,,,,,RAC,7,2016,Razvoj točka od slučajno generisanih mnogouglova primenom genetskih algoritama,pdf/2016/RAC1601.pdf
+Nožinić Stefan,,,,,,RAC,5,2016,Analiza zauzeća memorije različitih reprezentacija višeslojnog terena,pdf/2016/RAC1602.pdf
+Tešić Aleksa,,,,,,RAC,5,2016,Procena oblačnosti sa noćnih snimaka petničke all-sky kamere za snimanje meteora,pdf/2016/RAC1603.pdf
+Gavrić Milenko,,,,,,RAC,8,2016,Prepoznavanje meteora sa serije uzastopnih snimaka all-sky kamere,pdf/2016/RAC1604.pdf
+Savić Nikola,,,,,,AST,17,2017,Modelovanje i analiza krive sjaja cefeide sa egzoplanetom,pdf/2017/AST1701.pdf
+Obradović Božidar,,,,,,AST,17,2017,Modelovanje i analiza krive sjaja cefeide sa egzoplanetom,pdf/2017/AST1701.pdf
+Herček Filip,,,,,,AST,17,2017,Modelovanje i analiza krive sjaja cefeide sa egzoplanetom,pdf/2017/AST1701.pdf
+Ristić Danilo,,,,,,AST,8,2017,Simulacija nastanka polar-ring galaksija,pdf/2017/AST1702.pdf
+Anastasijević Ilija,,,,,,AST,10,2017,Numeričko ispitivanje plimskog zagrevanja Encelada,pdf/2017/AST1703.pdf
+Jevtić Sava,,,,,,AST,4,2017,DSLR fotometrija promenljive zvezde V2455 Cyg,pdf/2017/AST1704.pdf
+Bulaja Luka,,,,,,AST,5,2017,Uticaj atmosfere i površine planete na njenu nastanjivost,pdf/2017/AST1705.pdf
+Špegar Jelena,,,,,,AST,4,2017,Posmatranje i analiza krive sjaja tranzita egzoplanete,pdf/2017/AST1706.pdf
+Dodović Matija,,,,,,AST,13,2017,Teorijska analiza nastanka preèage kod spiralnih galaksija usled bliskog prolaza dve galaksije,pdf/2017/AST1707.pdf
+Jevtović Luka,,,,,,AST,8,2017,Modelovanje i analiza gravitacionih talasa pri inspiralu crne rupe unutar imitatora supermasivne crne rupe,pdf/2017/AST1708.pdf
+Ristić Jelena,,,,,,FIZ,11,2017,Uticaj dipolne interakcije na oblik Fermijeve površi,pdf/2017/FIZ1701.pdf
+Ilić Anastasija,,,,,,FIZ,11,2017,Uticaj dipolne interakcije na oblik Fermijeve površi,pdf/2017/FIZ1701.pdf
+Đorđević Emilija,,,,,,FIZ,14,2017,Numerički model distribucije kompanija po veličini,pdf/2017/FIZ1702.pdf
+Đajić Anja,,,,,,FIZ,14,2017,Numerički model distribucije kompanija po veličini,pdf/2017/FIZ1702.pdf
+Jakovljević Andrej,,,,,,FIZ,7,2017,Primena Markovljevih procesa na problem širenja informacija u mreama,pdf/2017/FIZ1703.pdf
+Božanić Milica,,,,,,FIZ,10,2017,Ispitivanje efikasnosti grafena u zaštiti metala od atoma vodonika metodom molekularne dinamike,pdf/2017/FIZ1704.pdf
+Nikolić Kristina,,,,,,FIZ,10,2017,Ispitivanje efikasnosti grafena u zaštiti metala od atoma vodonika metodom molekularne dinamike,pdf/2017/FIZ1704.pdf
+Kukolj Trivko,,,,,,FIZ,11,2017,Lokalizacija zvuka u metamaterijalima,pdf/2017/FIZ1705.pdf
+Ristivojević Aleksandar,,,,,,FIZ,8,2017,Uticaj topologije neuronske mree na sinhronizaciju neurona,pdf/2017/FIZ1706.pdf
+Cupać Milan,,,,,,FIZ,11,2017,Minimizator dejstva na sferi oblika,pdf/2017/FIZ1707.pdf
+Raonić Bogdan,,,,,,FIZ,11,2017,Minimizator dejstva na sferi oblika,pdf/2017/FIZ1707.pdf
+Pavlov Dimitrije,,,,,,FIZ,7,2017,Kontrola kriostata,pdf/2017/FIZ1708.pdf
+Đukić David,,,,,,FIZ,7,2017,Kontrola kriostata,pdf/2017/FIZ1708.pdf
+Vuković Vuk,,,,,,FIZ,9,2017,Detekcija kvantne uvezanosti korišćenjem POVM merenja sa primenom u komunikacionim protokolima,pdf/2017/FIZ1709.pdf
+Mijović Mia,,,,,,FIZ,9,2017,Detekcija kvantne uvezanosti korišćenjem POVM merenja sa primenom u komunikacionim protokolima,pdf/2017/FIZ1709.pdf
+Vukosavljević Katarina,,,,,,FIZ,10,2017,Ispitivanje dinamike kvazičestica u neravnotežnoj superprovodnosti,pdf/2017/FIZ1710.pdf
+Burmazović Ivana,,,,,,FIZ,10,2017,Ispitivanje dinamike kvazičestica u neravnotežnoj superprovodnosti,pdf/2017/FIZ1710.pdf
+Radović Vuk,,,,,,FIZ,2,2017,Kvantni haos u faznim prelazima,pdf/2017/FIZ1711.pdf
+Silađi Eva,,,,,,MAT,25,2017,Probabilistički metod i zero-sum Ramseyevi brojevi,pdf/2017/MAT1701.pdf
+Šobot Branislav,,,,,,MAT,25,2017,Probabilistički metod i zero-sum Ramseyevi brojevi,pdf/2017/MAT1701.pdf
+Jakšić Tijana,,,,,,MAT,8,2017,O lavirintima i ugradivanju stabala u grid grafove,pdf/2017/MAT1702.pdf
+Poznanović Isidora,,,,,,MAT,8,2017,O lavirintima i ugradivanju stabala u grid grafove,pdf/2017/MAT1702.pdf
+Mićić Dragan,,,,,,PFE,12,2017,Lokalizacija na osnovu markera,pdf/2017/PFE1701.pdf
+Tonić Danilo,,,,,,PFE,12,2017,Lokalizacija na osnovu markera,pdf/2017/PFE1701.pdf
+Radović Srđan,,,,,,PFE,12,2017,Izdvajanje vokala iz audio zapisa,pdf/2017/PFE1702.pdf
+Stefanović Aleksa,,,,,,PFE,12,2017,Izdvajanje vokala iz audio zapisa,pdf/2017/PFE1702.pdf
+Parag Filip,,,,,,PFE,16,2017,"Modeliranje, simulacija i implementacija samobalansirajućeg robota",pdf/2017/PFE1703.pdf
+Stefanović Milomir,,,,,,PFE,16,2017,"Modeliranje, simulacija i implementacija samobalansirajućeg robota",pdf/2017/PFE1703.pdf
+Bogdanović Anđela,,,,,,PFE,7,2017,Simulacija rada piezo motora i ispitivanje njegovih performansi u zavisnosti od dimenzija,pdf/2017/PFE1704.pdf
+Brestovački Lenka,,,,,,PFE,7,2017,Simulacija rada piezo motora i ispitivanje njegovih performansi u zavisnosti od dimenzija,pdf/2017/PFE1704.pdf
+Sekulić Diana,,,,,,PFE,7,2017,Analiza parametara upravljačkog sistema Ballbota,pdf/2017/PFE1705.pdf
+Bašić Mladen,,,,,,PFE,7,2017,Analiza parametara upravljačkog sistema Ballbota,pdf/2017/PFE1705.pdf
+Aleksić Milica,,,,,,PFE,7,2017,Detekcija i klasifikacija saobraćajnih znakova,pdf/2017/PFE1706.pdf
+Seke Ervin,,,,,,PFE,7,2017,Detekcija i klasifikacija saobraćajnih znakova,pdf/2017/PFE1706.pdf
+Grbić Mihailo,,,,,,PFE,8,2017,Generisanje obučavajućih slika suparničkim neuronskim mreama,pdf/2017/PFE1707.pdf
+Bebić Nikola,,,,,,RAC,6,2017,Traženje duplikata u kodu analizom apstraktnih sintaksnih stabala,pdf/2017/RAC1701.pdf
+Šikuljak Igor,,,,,,RAC,7,2017,Konstrukcija unapređenog sigurnosnog protokola za bežičnu mrežnu komunikaciju,pdf/2017/RAC1702.pdf
+Tešić Aleksa,,,,,,RAC,6,2017,Predikcija sekvencijalnog kretanja u 2D ravni,pdf/2017/RAC1703.pdf
+Gavrić Milenko,,,,,,RAC,7,2017,Poređenje predviđanja vodostaja reke na osnovu istorijskih podataka upotrebom neuronske mreže i skrivenog Markovljevog modela,pdf/2017/RAC1704.pdf
+Pavlović Dunja,,,,,,BIO,5,2017,"Uticaj kateholamina na rast, formiranje biofilma i pokretljivost bakterijskih sojeva gastrointestinalnog trakta",pdf/2017/BIO1701.pdf
+Nedeljković Marija,,,,,,BIO,7,2017,"Efekat 1,8-cineola na faktore virulencije bakterijskog soja P. aeruginosa 15442",pdf/2017/BIO1702.pdf
+Sántha Kinga,,,,,,BIO,9,2017,Diverzitet kolembola Nacionalnog parka Fruška gora,pdf/2017/BIO1703.pdf
+Šolaja Sofija,,,,,,BIO,6,2017,Ispitivanje protektivnog dejstva ekstrakta koprive na modelu humanih hepatocita tretiranih benzo[a]pirenom i benz[a]antracenom,pdf/2017/BIO1704.pdf
+Torbica Teodora,,,,,,BIO,6,2017,Ispitivanje protektivnog dejstva ekstrakta koprive na modelu humanih hepatocita tretiranih benzo[a]pirenom i benz[a]antracenom,pdf/2017/BIO1704.pdf
+Mitrović Lazar,,,,,,BIO,6,2017,Ispitivanje protektivnog dejstva ekstrakta koprive na modelu humanih hepatocita tretiranih benzo[a]pirenom i benz[a]antracenom,pdf/2017/BIO1704.pdf
+Joković Nikola,,,,,,BIO,7,2017,Potencijal vrste Alyssum murale Waldst & Kit s. l. za hiperakumulaciju nikla na ultramafitima Maljena,pdf/2017/BIO1705.pdf
+Stojković Pavle,,,,,,BIO,5,2017,Selekcija bakterije Escherichia coli za rezistenciju na ultrazvučnu sonifikaciju,pdf/2017/BIO1706.pdf
+Simić Milena,,,,,,BIO,6,2017,Uticaj temperature na uspostavljanje napona kod mikrobioloških gorivnih ćelija sa biokatodom,pdf/2017/BIO1707.pdf
+Gordić Vuk,,,,,,BIO,2,2017,Ispitivanje uticaja dibutil ftalata (DBP) na endotelne ćelije krvnih sudova na modelu humane ćelijske linije EA.hy926,pdf/2017/BIO1708.pdf
+Kocić Ana,,,,,,BMD,9,2017,Sinergističko dejstvo ekstrakta belog luka (Allium sativum) i amfotericina B na gljivu Candida Albicans,pdf/2017/BMD1701.pdf
+Sušić Vladana,,,,,,BMD,10,2017,Optimizacija tretmana kurkuminom inkapsuliranim u kompleks želatina i arapske gume u odbrani melanoma B16 od UV-A zračenja,pdf/2017/BMD1702.pdf
+Banić Biljana,,,,,,BMD,5,2017,Biološka kontrola biljnog parazita Fusarium graminearum pomoću sinergističkog odnosa Bacillus subtilis i ekstrakta Pellia endiviifolia,pdf/2017/BMD1703.pdf
+Milošević Anđela,,,,,,BMD,4,2017,Ispitivanje uticaja gingerola na vijabilnost ćelijske linije mišijeg melanoma B16,pdf/2017/BMD1704.pdf
+Gjoshevska Kristina,,,,,,BMD,5,2017,Testing the Hepatotoxicity of Single Walled and Multi Walled Carbon Nanotubes,pdf/2017/BMD1705.pdf
+Vizi Aleksa,,,,,,GLG,7,2017,Mogućnost sanacije zagađenja rečne vode glinama,pdf/2017/GLG1701.pdf
+Karanović Snežana,,,,,,GLG,7,2017,Mogućnost sanacije zagađenja rečne vode glinama,pdf/2017/GLG1701.pdf
+Vulović Maša,,,,,,GLG,5,2017,Hidrohemijske osobine površinskih i podzemnih voda na području planine Avale,pdf/2017/GLG1702.pdf
+Ninić Anastasia,,,,,,GLG,7,2017,Razlike u petrografskim karakteristikama kvarclatita planine Rudnik,pdf/2017/GLG1703.pdf
+Lazić Dušica,,,,,,GLG,4,2017,Hemijske karakteristike vode Kuršumlijske banje,pdf/2017/GLG1704.pdf
+Dmitrović Jovan,,,,,,GLG,7,2017,Uticaj padavina na promenu kvaliteta prirodnih voda u gornjem delu sliva reke Dragobiljice,pdf/2017/GLG1705.pdf
+Kostić Branko,,,,,,GLG,4,2017,Geneza minerala arsena i gvožđa u slivu reke Ribnice,pdf/2017/GLG1706.pdf
+Belotić Branislav,,,,,,GLG,4,2017,Geneza minerala arsena i gvožđa u slivu reke Ribnice,pdf/2017/GLG1706.pdf
+Rašević Marijana,,,,,,GLG,4,2017,Koncentracije olova i antimona u podzemnim i površinskim vodama reke Štire na području Zajače,pdf/2017/GLG1707.pdf
+Antić Sara,,,,,,GLG,5,2017,Ispitivanje efikasnosti i optimizacija procesa hemijske koagulacije za preradu komunalnih otpadnih voda,pdf/2017/GLG1708.pdf
+Ćirić Nikolina,,,,,,GLG,9,2017,Geološki razvoj centralnog dela planine Kosmaj,pdf/2017/GLG1709.pdf
+Tadić Elena,,,,,,GLG,1,2017,Procena intenziteta erozije na teritoriji opštine Beočin,pdf/2017/GLG1710.pdf
+Nikoletić Anamarija,,,,,,HEM,12,2017,"Sinteza i solvatohromizam diazo boja derivatizovanih iz pirazolo[1,5-a]pirimidina",pdf/2017/HEM1701.pdf
+Topalović Igor,,,,,,HEM,8,2017,Biosorpcija boje Acid orange 7 biomasom hrasta kitnjaka (Quercus Petraea L.),pdf/2017/HEM1702.pdf
+Čižik Hana,,,,,,HEM,6,2017,Spektrofotometrijska metoda za određivanje kobalta na bazi njegove reakcije sa 4-(2-pirimidilazo)-rezorcinolom,pdf/2017/HEM1703.pdf
+Milosavljević Momčilo,,,,,,HEM,8,2017,Deponovanje nanočestica srebra na grafen i ispitivanje katalitičkog dejstva dobijenog kompozita na redukciju nitroaromata,pdf/2017/HEM1704.pdf
+Ivković Jelena,,,,,,HEM,7,2017,Biosorpcija jona olova (Pb2+) iz vodenih rastvora upotrebom ljuski kikirikija kao biosorbenta,pdf/2017/HEM1705.pdf
+Mijatović Aleksa,,,,,,HEM,4,2017,Ispitivanje katalitičkog dejstva jona bakra(II) adsorbovanih na površini klinoptilolita na reakciju kuplovanja aril-bromida i alifatičnih diola,pdf/2017/HEM1706.pdf
+Tomić Miona,,,,,,HEM,6,2017,Kinetička metoda za određivanje nanokoličina kobalta i milikoličina oksalata zasnovana na katalizi i inhibiciji reakcije oksidacije rezorcinola vodonik-peroksidom,pdf/2017/HEM1707.pdf
+Pantić Nevena,,,,,,AHL,11,2017,Predstave muzičkih instrumenata na freskama iz zadužbina kralja Milutina,pdf/2017/AHL1701.pdf
+Babinjec Dušana,,,,,,AHL,12,2017,Dentalna analiza skeleta sa nekropole u okviru objekta 1 na lokalitetu Anine u Ćelijama,pdf/2017/AHL1702.pdf
+Maksimović Tamara,,,,,,AHL,12,2017,Dentalna analiza skeleta sa nekropole u okviru objekta 1 na lokalitetu Anine u Ćelijama,pdf/2017/AHL1702.pdf
+Andrić Nenad,,,,,,AHL,8,2017,Interpretacija nekropole iz XVII–XVIII veka sa lokaliteta Anine,pdf/2017/AHL1703.pdf
+Đerković Predrag,,,,,,AHL,9,2017,Tipološko-hemijska analiza rimskih staklenih narukvica sa lokaliteta Anine u Ćelijama,pdf/2017/AHL1704.pdf
+Bogojević Maša,,,,,,AHL,8,2017,Analiza ivotinjskih kostiju iz vile sa stambenim i ekonomskim delom sa lokaliteta Anine u Ćelijama,pdf/2017/AHL1705.pdf
+Brančić Anastasija,,,,,,AHL,8,2017,Analiza ivotinjskih kostiju iz vile sa stambenim i ekonomskim delom sa lokaliteta Anine u Ćelijama,pdf/2017/AHL1705.pdf
+Kostić Katarina,,,,,,ANT,13,2017,Šta nas odvaja od drugih: Definisanje etničkog identiteta i etničke distance na primeru Slovaka iz Stare Pazove,pdf/2017/ANT1701.pdf
+Čapko Isidora,,,,,,ANT,12,2017,Antropološka analiza tech veštičarenja na sajtu Tumblr,pdf/2017/ANT1702.pdf
+Šamaraj Ana,,,,,,ANT,10,2017,Semiotička analiza epizode serije The 100,pdf/2017/ANT1703.pdf
+Majerle Mia,,,,,,DRH,9,2017,Uticaj upoznatosti sa materijalom i dužine izlaganja na estetsku procenu renesansnih i slika iz apstraktnog ekpresionizma,pdf/2017/DHR1701.pdf
+Antonijević Pavle,,,,,,IST,16,2017,Crveni krst u Novom Pazaru od 1976. do 1987. godine: delatnost organizacije u socijalizmu i uticaj ideologije na rad,pdf/2017/IST1701.pdf
+Bogićević Aleksandar,,,,,,IST,8,2017,Humanitarni rad kraljice Marije Karađorđević u periodu od 1921. do 1941. godine,pdf/2017/IST1702.pdf
+Milovanović Aleksandar,,,,,,IST,7,2017,Udruženje nosilaca Albanske spomenice u Leskovcu 1967–1982.,pdf/2017/IST1703.pdf
+Milenković Ivan,,,,,,IST,11,2017,Beogradski odbor Jadranske straže 1922–1941: Između elitizma i nacionalizma,pdf/2017/IST1704.pdf
+Beronja Branko,,,,,,IST,11,2017,Konfiskacija i nacionalizacija imovine pod uticajem kolonizacije i potreba KPJ u Opštini Odžaci 1945–1948.,pdf/2017/IST1705.pdf
+Mirosavljević Igor,,,,,,IST,9,2017,Opštinska konferencija SSRN Stara Pazova 1966–1980.,pdf/2017/IST1706.pdf
+Pajtić Alisa,,,,,,IST,11,2017,Rad Saveza udruženja estradnih umetnika i izvođača Vojvodine na suzbijanju neprofesionalnosti i šunda (1973–1990),pdf/2017/IST1707.pdf
+Milošević Milošević,,,,,,LIN,9,2017,Da li dijalekatske osobine opstaju i danas: procena i samoprocena kod govornika kosovsko-resavskog dijalekta,pdf/2017/LIN1701.pdf
+Terzić Milana,,,,,,LIN,5,2017,Uticaj objektivne produktivnosti derivacionih sufiksa na brzinu obrade imenica srpskog jezika,pdf/2017/LIN1702.pdf
+Lazić Una,,,,,,PSH,17,2017,Depresija u adolescenciji: Koliko znamo i kakvi su nam stavovi?,pdf/2017/PSH1701.pdf
+Miličić Ivana,,,,,,PSH,8,2017,Uticaj broja i glasnoće prikazivanih zvukova i veličine kontrasta između mete i pozadine na pojavu iluzije vizuelnog treperenja,pdf/2017/PSH1702.pdf
+Bajić Marina,,,,,,PSH,8,2017,Uticaj broja i glasnoće prikazivanih zvukova i veličine kontrasta između mete i pozadine na pojavu iluzije vizuelnog treperenja,pdf/2017/PSH1702.pdf
+Devedžić Darja,,,,,,PSH,7,2017,Akademsko laganje: uticaj nagrade i relacija sa akademskim self-konceptom,pdf/2017/PSH1703.pdf
+Osmani Dajana,,,,,,PSH,11,2017,Razlike u stavovima adolescenata prema rodnim ulogama u odnosu na raspodelu rodnih uloga u porodici i dominatan pol prijatelja,pdf/2017/PSH1704.pdf
+Tomić Konstantin,,,,,,PSH,22,2017,PIKSNAP: Konstrukcija i validacija skale neakademske prokrastinacije,pdf/2017/PSH1705.pdf
+Mačkić Pavle,,,,,,PSH,22,2017,PIKSNAP: Konstrukcija i validacija skale neakademske prokrastinacije,pdf/2017/PSH1705.pdf
+Damjanović Milica,,,,,,PSH,13,2017,Svesno nesavesni: Ispitivanje prediktora stava adolescenata prema rizičnom seksualnom ponašanju,pdf/2017/PSH1706.pdf
+Žunjić Nevena,,,,,,PSH,13,2017,Svesno nesavesni: Ispitivanje prediktora stava adolescenata prema rizičnom seksualnom ponašanju,pdf/2017/PSH1706.pdf
+Karaman Mina,,,,,,PSH,13,2017,Svesno nesavesni: Ispitivanje prediktora stava adolescenata prema rizičnom seksualnom ponašanju,pdf/2017/PSH1706.pdf
+Seminar dizajna 2017,,,,,,DIZ,7,2017,Ljuljaške i zastave,pdf/2017/DIZ1701.pdf

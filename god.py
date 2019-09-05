@@ -1,29 +1,6 @@
 import pandas as pd
 import sys
-
-prog_names = {
-    'ast': "Astronomija",
-    'fiz': "Fizika",
-    'mat': 'Matematika',
-    'pfe': 'Primenjena fizika i elektronika',
-    'ele': 'Elektronika',
-    'rac': 'Računarstvo',
-    'rač': 'Računarstvo',
-    'bio': 'Biologija',
-    'bmd': 'Biomedicina',
-    'hbh': 'Humana biohemija',
-    'glg': 'Geologija',
-    'geo': 'Geografija',
-    'hem': 'Hemija',
-    'ska': 'Sociokulturna antropologija',
-    'fan': 'Fizička antropologija',
-    'ant': 'Antropologija',
-    'ahl': 'Arheologija',
-    'ist': 'Istorija',
-    'lin': 'Lingvistika',
-    'psh': 'Psihologija',
-    'diz': 'Dizajn'
-}
+from prog_names import prog_names
 
 _, year, outfile = sys.argv
 
