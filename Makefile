@@ -21,7 +21,7 @@ gen/god-%.html: god.py god.template.html
 	$(PY) god.py $* $@
 
 
-pdfs: $(patsubst %,gen/pdf/%/.gen,2010 2011)
+pdfs: $(patsubst %,gen/pdf/%/.gen,2010 2011 2012)
 
 gen/pdf/2010/.gen: pdf/2010/ps68cr.pdf pdf/2010/ps68cr.chop
 	$(PY) chop.py $^ ./gen/pdf/2010 68 old
@@ -29,6 +29,10 @@ gen/pdf/2010/.gen: pdf/2010/ps68cr.pdf pdf/2010/ps68cr.chop
 
 gen/pdf/2011/.gen: pdf/2011/PS69_ZBORNIK2011.pdf pdf/2011/PS69.chop
 	$(PY) chop.py $^ ./gen/pdf/2011 69 old
+	echo "" > $@
+
+gen/pdf/2012/.gen: pdf/2012/ps70_Zbornik2012_ispr.pdf pdf/2012/ps70.chop
+	$(PY) chop.py $^ ./gen/pdf/2012 70 old
 	echo "" > $@
 
 .PHONY: all pdfs
