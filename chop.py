@@ -5,6 +5,8 @@ from PyPDF2 import PdfFileReader, PdfFileWriter
 _, inpdf, slices, outfolder, year, fmt = sys.argv
 
 def slice_pdf(infile, pg_from, pg_to, output):
+    if pg_from == pg_to:
+        return
     rdr = PdfFileReader(infile)
     wrt = PdfFileWriter()
     for pg in range(int(pg_from), int(pg_to)):
