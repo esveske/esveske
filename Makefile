@@ -4,17 +4,17 @@ PY := py
 progs := ast fiz mat pfe ele rac bio bmd hbh glg hem ant ahl drh fan ist lin psh ska diz
 years := 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
 
-ALL := \
+PAGES := \
 	gen/index.html \
 	$(patsubst %,gen/prog-%.html,$(progs)) \
 	$(patsubst %,gen/god-%.html,$(years))
 	
 all: pdfs pages
 
-pages: $(ALL)
+pages: $(PAGES)
 
-gen/index.html: index.html
-	$(CP) $< $(subst /,\,$@)
+gen/%: static/%
+	$(CP) $(subst /,\,$<) $(subst /,\,$@)
 
 gen/prog-%.html: prog.py prog.template.html data.csv
 	$(PY) prog.py $* $@
