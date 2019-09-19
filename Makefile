@@ -8,7 +8,8 @@ PAGES := \
 	gen/index.html \
 	$(patsubst %,gen/prog-%.html,$(progs)) \
 	$(patsubst %,gen/god-%.html,$(years)) \
-	gen/pocetak.html
+	gen/pocetak.html \
+	gen/stsicn.html
 	
 all: pdfs pages
 
