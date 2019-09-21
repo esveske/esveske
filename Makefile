@@ -10,7 +10,7 @@ PAGES := \
 	$(patsubst %,gen/god-%.html,$(years)) \
 	gen/pocetak.html \
 	gen/stsicn.html \
-	get/uputstvo.html
+	gen/uputstvo.html
 	
 all: pdfs pages
 
