@@ -10,7 +10,8 @@ PAGES := \
 	$(patsubst %,gen/god-%.html,$(years)) \
 	gen/pocetak.html \
 	gen/stsicn.html \
-	gen/uputstvo.html
+	gen/uputstvo.html \
+	gen/style.css \
 	
 all: pdfs pages
 
@@ -19,10 +20,10 @@ pages: $(PAGES)
 gen/%: static/%
 	$(CP) $(subst /,\,$<) $(subst /,\,$@)
 
-gen/prog-%.html: prog.py prog.template.html data.csv
+gen/prog-%.html: prog.py prog.template.html data.xlsx
 	$(PY) prog.py $* $@
 
-gen/god-%.html: god.py god.template.html data.csv
+gen/god-%.html: god.py god.template.html data.xlsx
 	$(PY) god.py $* $@
 
 
