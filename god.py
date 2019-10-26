@@ -12,7 +12,7 @@ with open('./god.template.html', encoding='utf-8') as template_f:
 template = template.replace('@@YEAR@@', year)
 
 # read the metadata
-df = pd.read_csv('./data.csv')
+df = pd.read_excel('./data.xlsx', sheet_name='data')
 
 # filter only this programme
 df = df[df['god'] == int(year)]
