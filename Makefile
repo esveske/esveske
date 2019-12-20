@@ -1,17 +1,19 @@
 CP := cp
 PY := python
 
+# all programs
 progs := ast fiz mat pfe ele rac bio bmd hbh glg hem ant ahl drh fan ist lin psh ska diz
+
+# all years
 years := 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
 
+# static pages
+st_pages := style.css index.html pocetak.html stsicn.html uputstvo.html
+
 PAGES := \
-	gen/index.html \
 	$(patsubst %,gen/prog-%.html,$(progs)) \
 	$(patsubst %,gen/god-%.html,$(years)) \
-	gen/pocetak.html \
-	gen/stsicn.html \
-	gen/uputstvo.html \
-	gen/style.css \
+	$(patsubst %,gen/%,$(st_pages))
 	
 all: pdfs pages
 
