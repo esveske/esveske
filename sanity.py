@@ -7,30 +7,35 @@ data: pd.DataFrame = pd.read_excel('./data.xlsx')
 
 _sanity_checks = []
 
+current_error = False
 
 def sanity_check(fn):
-    _sanity_checks.append(fn)
-    return fn
+    def _w():
+        global current_error
+        current_error = False
+        fn()
+        return not current_error
+    _w.__name__ = fn.__name__
+    _sanity_checks.append(_w)
+    return _w
 
 
 def error(*args):
+    global current_error
     print(*args, file=sys.stderr)
+    current_error = True
 
 
 @sanity_check
 def no_404_links():
 
-    ok = True
     for link in data['link']:
         if not os.path.exists('./gen/' + link):
             error('file', link, 'does not exist!')
-            ok = False
-    return ok
 
 
 @sanity_check
 def no_unlinked_pdfs():
-    ok = True
 
     svi_linkovi = set(data['link'])
 
@@ -41,8 +46,6 @@ def no_unlinked_pdfs():
             non_prefixed = dirpath[6:] + '/' + file  # strip the './gen/' part
             if non_prefixed not in svi_linkovi:
                 error('file', non_prefixed, 'not linked anywhere')
-                ok = False
-    return ok
 
 
 if __name__ == "__main__":
