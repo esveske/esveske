@@ -2,6 +2,13 @@
 
 ## Setup
 
+Clone this repository and `cd` into it.
+
+```sh
+git clone https://github.com/esveske/esveske
+cd esveske
+```
+
 Clone the site into `gen/` directory:
 
 ```sh
@@ -11,6 +18,8 @@ git clone https://github.com/esveske/esveske.github.io gen
 ## Building
 
 Just run `make`. It should rebuild everything.
+
+Since you probably do not need to chop up the pdf-s (we moved past that), run `make pages` to only build the html pages.
 
 ## Modification
 
