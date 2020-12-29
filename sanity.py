@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import sys
 
-data: pd.DataFrame = pd.read_excel('./data.xlsx')
+data: pd.DataFrame = pd.read_excel('./data.xlsx', engine="openpyxl")
 
 
 _sanity_checks = []

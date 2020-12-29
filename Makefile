@@ -2,10 +2,10 @@ PY := python
 CP := $(PY) -c "import shutil,sys; shutil.copy(sys.argv[1],sys.argv[2])"
 
 # all programs
-progs := ast fiz mat pfe ele rac bio bmd hbh glg hem ant ahl drh fan ist lin psh ska diz
+progs := ast fiz mat pfe ele rac bio bmd hbh ggr glg hem ant ahl drh fan ist lin psh ska diz
 
 # all years
-years := 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+years := 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
 
 # static pages
 st_pages := style.css index.html pocetak.html stsicn.html uputstvo.html

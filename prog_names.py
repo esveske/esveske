@@ -9,7 +9,7 @@ prog_names = {
     'bmd': 'Biomedicina',
     'hbh': 'Humana biohemija',
     'glg': 'Geologija',
-    'geo': 'Geografija',
+    'ggr': 'Geografija',
     'hem': 'Hemija',
     'ska': 'Sociokulturna antropologija',
     'fan': 'Fizička antropologija',
